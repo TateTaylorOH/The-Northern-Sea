@@ -1,0 +1,830 @@
+Unhandled native exception occurred at 0x7FF7B113DDDA (SkyrimSE.exe+D6DDDA) on thread 29876!
+
+FrameworkName: NetScriptFramework
+FrameworkVersion: 10
+FrameworkArchitecture: x64
+GameLibrary: SkyrimSE
+GameLibraryVersion: 14
+ApplicationName: SkyrimSE.exe
+ApplicationVersion: 1.5.97.0
+VersionInfo: Successfully loaded
+Time: 26 Sep 2021 12:58:13.401
+
+Possible relevant objects (3)
+{
+  [ 198]    BSLightingShaderProperty(Name: null)
+  [ 338]    NiNode(Name: `obj`)
+  [ 409]    BSFadeNode(Name: `IceFloes01`)
+}
+
+Probable callstack
+{
+  [0]   0x7FF7B113DDDA     (SkyrimSE.exe+D6DDDA)          unk_D6DD70+6A
+  [1]   0x7FF7B16F83B5     (SkyrimSE.exe+13283B5)         unk_1328370+45
+  [2]   0x7FF7B1038CEF     (SkyrimSE.exe+C68CEF)          unk_C68BA0+14F
+  [3]   0x7FF7B110A58E     (SkyrimSE.exe+D3A58E)          unk_D3A4D0+BE
+  [4]   0x7FF7B08EE646     (SkyrimSE.exe+51E646)          unk_51E440+206
+  [5]   0x7FF7B1109445     (SkyrimSE.exe+D39445)          unk_D392B0+195
+  [6]   0x7FF7B101D9BE     (SkyrimSE.exe+C4D9BE)          unk_C4D960+5E
+  [7]   0x7FF7B101D286     (SkyrimSE.exe+C4D286)          unk_C4D1D0+B6
+  [8]   0x7FF7B101D9BE     (SkyrimSE.exe+C4D9BE)          unk_C4D960+5E
+  [9]   0x7FF7B1665D93     (SkyrimSE.exe+1295D93)         unk_1295C30+163
+  [10]  0x7FF7B101D286     (SkyrimSE.exe+C4D286)          unk_C4D1D0+B6
+  [11]  0x7FF7B101D9BE     (SkyrimSE.exe+C4D9BE)          unk_C4D960+5E
+  [12]  0x7FF7B101D9BE     (SkyrimSE.exe+C4D9BE)          unk_C4D960+5E
+  [13]  0x7FF7B0FDCDE3     (SkyrimSE.exe+C0CDE3)          BSSmallBlockAllocator::unk_C0CD60+83
+  [14]  0x7FF7B16EC0EB     (SkyrimSE.exe+131C0EB)         BSShaderMaterial::ComputeCRC32_131C0B0+3B
+  [15]  0x7FF7B0FD2352     (SkyrimSE.exe+C02352)          Memory::Allocate_C02260+F2
+  [16]  0x7FF7B0FD2352     (SkyrimSE.exe+C02352)          Memory::Allocate_C02260+F2
+  [17]  0x7FF7B169ED5E     (SkyrimSE.exe+12CED5E)         BSShaderMaterial::unk_12CED50+E
+  [18]  0x7FF7B16DC077     (SkyrimSE.exe+130C077)         unk_130BFD0+A7
+  [19]  0x7FF7B169EF5A     (SkyrimSE.exe+12CEF5A)         BSLightingShaderMaterialBase::CopyMembers_12CEF40+1A
+  [20]  0x7FF7B16DBDA1     (SkyrimSE.exe+130BDA1)         unk_130BB80+221
+  [21]  0x7FF7B16B53DE     (SkyrimSE.exe+12E53DE)         BSShaderTextureSet::SetTexture_12E5390+4E
+  [22]  0x7FF7B0FD3E53     (SkyrimSE.exe+C03E53)          ScrapHeap::unk_C03DB0+A3
+  [23]  0x7FF7B169F537     (SkyrimSE.exe+12CF537)         BSLightingShaderMaterialBase::OnLoadTextureSet_12CF480+B7
+  [24]  0x7FF7B1694E76     (SkyrimSE.exe+12C4E76)         BSLightingShaderProperty::unk_12C4CC0+1B6
+  [25]  0x7FF7B1041039     (SkyrimSE.exe+C71039)          BSGeometry::LinkObject_C70F80+B9
+  [26]  0x7FF7B102BD71     (SkyrimSE.exe+C5BD71)          NiStream::Func15_C5BA80+2F1
+  [27]  0x7FF7B0FF5B2B     (SkyrimSE.exe+C25B2B)          BSNiAllocator::Allocate_C25AB0+7B
+  [28]  0x7FF7B1029FBE     (SkyrimSE.exe+C59FBE)          NiStream::Func1_C59F90+2E
+  [29]  0x7FF7B11069D8     (SkyrimSE.exe+D369D8)          BSStream::unk_D36950+88
+  [30]  0x7FF7B0870CCB     (SkyrimSE.exe+4A0CCB)          LoadBTOMesh_4A0C00+CB
+  [31]  0x7FFD96EBB3C7     (ntdll.dll+2B3C7)              
+  [32]  0x7FFD5BC1558A     (usvfs_x64.dll+C558A)          
+  [33]  0x7FFD96E9A46C     (ntdll.dll+A46C)               
+  [34]  0x7FF7B0502BEA     (SkyrimSE.exe+132BEA)          Mutex::Lock1_132BD0+1A
+  [35]  0x7FF7B0FFA689     (SkyrimSE.exe+C2A689)          unk_C2A590+F9
+  [36]  0x7FF7B0673053     (SkyrimSE.exe+2A3053)          TESObjectREFR::PopulateGraphProjectsToLoad_2A2FA0+B3
+  [37]  0x7FF7B0FD3E53     (SkyrimSE.exe+C03E53)          ScrapHeap::unk_C03DB0+A3
+  [38]  0x7FF7B0FF8DEA     (SkyrimSE.exe+C28DEA)          unk_C28D60+8A
+  [39]  0x7FF7B0FD3A34     (SkyrimSE.exe+C03A34)          ScrapHeap::Allocate_C034A0+594
+  [40]  0x7FF7B0FDCCD3     (SkyrimSE.exe+C0CCD3)          BSSmallBlockAllocator::DeallocateAlignImpl_C0CBE0+F3
+  [41]  0x7FF7B0875798     (SkyrimSE.exe+4A5798)          unk_4A55D0+1C8
+  [42]  0x7FF7B0875B7A     (SkyrimSE.exe+4A5B7A)          unk_4A5A50+12A
+  [43]  0x7FF7B10FD82E     (SkyrimSE.exe+D2D82E)          anonymous_namespace::anonymous_namespace::Pauser::Func1_D2D800+2E
+  [44]  0x7FF7B0872EF0     (SkyrimSE.exe+4A2EF0)          unk_4A2DA0+150
+  [45]  0x7FF7B0874730     (SkyrimSE.exe+4A4730)          BSResource::EntryDB<BGSBtoDB::DBTraits>::Func3_4A4700+30
+  [46]  0x7FFD9493257D     (KERNELBASE.dll+6257D)         
+}
+
+Registers
+{
+  AX:       0x0                (NULL)
+  BX:       0x44               (u8):[68]
+  CX:       0xFFFFFFFF         (u32):[4294967295]
+  DX:       0x1AA7E750000      (char*) "@"
+  SI:       0x1AAFF2E6579      (void*)
+  DI:       0x1AB45FD8598      (char*) "("
+  BP:       0x8                (u8):[8]
+  SP:       0xB82C7EAC0        (void*)
+  IP:       0x7FF7B113DDDA     (SkyrimSE.exe+D6DDDA) (void*)
+  R8:       0x23AE0000         (u32):[598605824]
+  R9:       0xD6A0             (u16):[54944]
+  R10:      0x10000            (u32):[65536]
+  R11:      0xB82C7C510        (void*)
+  R12:      0xB82C7ED88        (void*)
+  R13:      0x7FF7B33ED8B0     (SkyrimSE.exe+301D8B0) (void*)
+  R14:      0xB82C7ED50        (BSResource::anonymous_namespace::LooseFileStream**)
+  R15:      0x7FF7B21D6520     (SkyrimSE.exe+1E06520) (void*)
+  Flags:    0x10206           
+  XMM0:     (double)0 / (float)0
+  XMM1:     (double)0 / (float)0
+  XMM2:     (double)0 / (float)0
+  XMM3:     (double)0 / (float)0
+  XMM4:     (double)0 / (float)0
+  XMM5:     (double)0 / (float)0
+  XMM6:     (double)5.30498947741318E-315 / (float)2
+  XMM7:     (double)0 / (float)0
+  XMM8:     (double)0 / (float)0
+  XMM9:     (double)0 / (float)0
+  XMM10:    (double)0 / (float)0
+  XMM11:    (double)0 / (float)0
+  XMM12:    (double)0 / (float)0
+  XMM13:    (double)0 / (float)0
+  XMM14:    (double)0 / (float)0
+  XMM15:    (double)0 / (float)0
+}
+
+Stack
+{
+  [SP+0]    0xFFFFFFFF00000001 (i64):[-4294967295]
+  [SP+8]    0x1AAFF2E6579      (void*)
+  [SP+10]   0x1AB45FD8598      (char*) "("
+  [SP+18]   0x44               (u8):[68]
+  [SP+20]   0x0                (NULL)
+  [SP+28]   0x1AA00000000      (void*)
+  [SP+30]   0x0                (NULL)
+  [SP+38]   0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+40]   0xA10070000007C    (u64):[2832372017922172]
+  [SP+48]   0x100000000AB      (u64):[1099511627947]
+  [SP+50]   0x10000AC00        (u64):[4295011328]
+  [SP+58]   0x9                (u8):[9]
+  [SP+60]   0x0                (NULL)
+  [SP+68]   0x0                (NULL)
+  [SP+70]   0x0                (NULL)
+  [SP+78]   0x0                (NULL)
+  [SP+80]   0x0                (NULL)
+  [SP+88]   0x400000020        (u64):[17179869216]
+  [SP+90]   0x30315844         (u32):[808540228]
+  [SP+98]   0x0                (NULL)
+  [SP+A0]   0x0                (NULL)
+  [SP+A8]   0x401008           (XINPUT1_3.dll+1008) (void*)
+  [SP+B0]   0x0                (NULL)
+  [SP+B8]   0x1AB00000000      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+C0]   0x1AB0692E210      (NiSourceTexture*)
+  [SP+C8]   0x7FF7B16F83B5     (SkyrimSE.exe+13283B5) (void*)
+  [SP+D0]   0x1AB0692E210      (NiSourceTexture*)
+  [SP+D8]   0x1AB0692E210      (NiSourceTexture*)
+  [SP+E0]   0x8                (u8):[8]
+  [SP+E8]   0xB00000044        (u64):[47244640324]
+  [SP+F0]   0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+F8]   0x7FF7B1B39330     (SkyrimSE.exe+1769330) (void*)
+  [SP+100]  0xFFFFFFFF0000E7C4 (i64):[-4294907964]
+  [SP+108]  0x7FF7B10467B0     (SkyrimSE.exe+C767B0) (void*)
+  [SP+110]  0x7FF7B1046820     (SkyrimSE.exe+C76820) (void*)
+  [SP+118]  0x1AAFF3239F0      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+120]  0x0                (NULL)
+  [SP+128]  0xE7C4             (u16):[59332]
+  [SP+130]  0x1AAFF2E6576      (char*) "dds"
+  [SP+138]  0x7FF7B1038CEF     (SkyrimSE.exe+C68CEF) (void*)
+  [SP+140]  0x0                (NULL)
+  [SP+148]  0x1AAFF2E6576      (char*) "dds"
+  [SP+150]  0x8                (u8):[8]
+  [SP+158]  0x1AAFF2E6545      (char*) "TEXTURES\Tate\architecture\settlement\planks_lod.dds"
+  [SP+160]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+168]  0x7FF7B33E13B0     (SkyrimSE.exe+30113B0) (void*)
+  [SP+170]  0xB82C7ED50        (BSResource::anonymous_namespace::LooseFileStream**)
+  [SP+178]  0x1AB45FD8810      (void*)
+  [SP+180]  0x1AB06CC57F8      (void*)
+  [SP+188]  0x7FF7B110A58E     (SkyrimSE.exe+D3A58E) (void*)
+  [SP+190]  0x0                (NULL)
+  [SP+198]  0x1AAFF2E6545      (char*) "TEXTURES\Tate\architecture\settlement\planks_lod.dds"
+  [SP+1A0]  0x3                (u8):[3]
+  [SP+1A8]  0x1AB45FD8598      (char*) "("
+  [SP+1B0]  0x0                (NULL)
+  [SP+1B8]  0x1AAFF3239F0      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+1C0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+1C8]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+1D0]  0x0                (NULL)
+  [SP+1D8]  0x1                (u8):[1]
+  [SP+1E0]  0x1AAFF2E6545      (char*) "TEXTURES\Tate\architecture\settlement\planks_lod.dds"
+  [SP+1E8]  0xA0000001         (u32):[2684354561]
+  [SP+1F0]  0x0                (NULL)
+  [SP+1F8]  0x7FF7B08EE646     (SkyrimSE.exe+51E646) (char*) "??"
+  [SP+200]  0x0                (NULL)
+  [SP+208]  0x1AA0000001E      (void*)
+  [SP+210]  0x0                (NULL)
+  [SP+218]  0x1AB06CC57D0      (void*)
+  [SP+220]  0xB82C7ED50        (BSResource::anonymous_namespace::LooseFileStream**)
+  [SP+228]  0x0                (NULL)
+  [SP+230]  0x0                (NULL)
+  [SP+238]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+240]  0x1                (u8):[1]
+  [SP+248]  0xB82C7F070        (void*)
+  [SP+250]  0xB82C7F320        (BSStream*)
+  [SP+258]  0x0                (NULL)
+  [SP+260]  0xFFFFFFFF         (u32):[4294967295]
+  [SP+268]  0x1AAFF2E6545      (char*) "TEXTURES\Tate\architecture\settlement\planks_lod.dds"
+  [SP+270]  0x7FF7B33ED7E0     (SkyrimSE.exe+301D7E0) (BSResource::EntryDB<BSTextureDB::DBTraits>*)
+  [SP+278]  0x7FF7B1109445     (SkyrimSE.exe+D39445) (void*)
+  [SP+280]  0x1                (u8):[1]
+  [SP+288]  0x7FF7B33ED7E0     (SkyrimSE.exe+301D7E0) (BSResource::EntryDB<BSTextureDB::DBTraits>*)
+  [SP+290]  0x1AAFF3239F0      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+298]  0xB82C7ED80        (void*)
+  [SP+2A0]  0xB82C7ED88        (void*)
+  [SP+2A8]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+2B0]  0x7FFD90C08BF0     (d3d11.dll+1E8BF0) (void*)
+  [SP+2B8]  0x40               (u8):[64]
+  [SP+2C0]  0x0                (NULL)
+  [SP+2C8]  0x3                (u8):[3]
+  [SP+2D0]  0x1AB06CC57D0      (void*)
+  [SP+2D8]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+2E0]  0x7364642D8EFAAA   (u64):[32480003745577642]
+  [SP+2E8]  0x7FFD0B5C1A2F     (u64):[140724794038831]
+  [SP+2F0]  0x1AB4486C090      (void*)
+  [SP+2F8]  0xB00000000        (u64):[47244640256]
+  [SP+300]  0x0                (NULL)
+  [SP+308]  0x1AB4486C8D8      (void*)
+  [SP+310]  0x0                (NULL)
+  [SP+318]  0x7FFD90C08BF0     (d3d11.dll+1E8BF0) (void*)
+  [SP+320]  0x1AB06CC5808      (void*)
+  [SP+328]  0x7FF700000001     (u64):[140698833649665]
+  [SP+330]  0x1AA18618500      (void*)
+  [SP+338]  0x7FF7B101D901     (SkyrimSE.exe+C4D901) (void*)
+  [SP+340]  0x1                (u8):[1]
+  [SP+348]  0xB82C7EF01        (void*)
+  [SP+350]  0xFFFFFFFFFFFFFF00 (i64):[-256]
+  [SP+358]  0x7FF7B101D9BE     (SkyrimSE.exe+C4D9BE) (void*)
+  [SP+360]  0x0                (NULL)
+  [SP+368]  0x0                (NULL)
+  [SP+370]  0x0                (NULL)
+  [SP+378]  0x0                (NULL)
+  [SP+380]  0xB82C7EE10        (void*)
+  [SP+388]  0xB82C7EFF8        (void*)
+  [SP+390]  0x0                (NULL)
+  [SP+398]  0xB82C7F020        (void*)
+  [SP+3A0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+3A8]  0x7FF7B101D286     (SkyrimSE.exe+C4D286) (void*)
+  [SP+3B0]  0x1AA18618510      (void*)
+  [SP+3B8]  0x2275             (u16):[8821]
+  [SP+3C0]  0x1AB06CC5800      (void*)
+  [SP+3C8]  0x2F3A             (u16):[12090]
+  [SP+3D0]  0x0                (NULL)
+  [SP+3D8]  0x0                (NULL)
+  [SP+3E0]  0x0                (NULL)
+  [SP+3E8]  0x7FF7B101D9BE     (SkyrimSE.exe+C4D9BE) (void*)
+  [SP+3F0]  0x0                (NULL)
+  [SP+3F8]  0x1AAFF2E6545      (char*) "TEXTURES\Tate\architecture\settlement\planks_lod.dds"
+  [SP+400]  0x1AB45FD8598      (char*) "("
+  [SP+408]  0x0                (NULL)
+  [SP+410]  0x1AAFF2E6540      (char*) "data\TEXTURES\Tate\architecture\settlement\planks_lod.dds"
+  [SP+418]  0x7FF7B1665D93     (SkyrimSE.exe+1295D93) (void*)
+  [SP+420]  0xFFFFFFFF         (u32):[4294967295]
+  [SP+428]  0x4                (u8):[4]
+  [SP+430]  0xB82C7EFE0        (void*)
+  [SP+438]  0xB82C7F0C8        (void*)
+  [SP+440]  0x3                (u8):[3]
+  [SP+448]  0x7FF7B101D200     (SkyrimSE.exe+C4D200) (char*) "^A]^[?H?l$xH?T$0D?L$pM??H??$?"
+  [SP+450]  0x0                (NULL)
+  [SP+458]  0x1AC3A4803D0      (void*)
+  [SP+460]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+468]  0x7FF7B101D286     (SkyrimSE.exe+C4D286) (void*)
+  [SP+470]  0x1AA18618510      (void*)
+  [SP+478]  0x7FF7B101D9BE     (SkyrimSE.exe+C4D9BE) (void*)
+  [SP+480]  0xB82C7F1C9        (void*)
+  [SP+488]  0x4                (u8):[4]
+  [SP+490]  0x0                (NULL)
+  [SP+498]  0x7FF7B101D9BE     (SkyrimSE.exe+C4D9BE) (void*)
+  [SP+4A0]  0x1AB06C8E140      (BSLightingShaderMaterial*)
+  [SP+4A8]  0x7FF7B0FDCDE3     (SkyrimSE.exe+C0CDE3) (void*)
+  [SP+4B0]  0x1AC3A480230      (char**) "?"
+  [SP+4B8]  0x7FF7B16EC0EB     (SkyrimSE.exe+131C0EB) (void*)
+  [SP+4C0]  0x7FF7B333A480     (SkyrimSE.exe+2F6A480) (void*)
+  [SP+4C8]  0x7FF7B3339F00     (SkyrimSE.exe+2F69F00) (BSSmallBlockAllocator*)
+  [SP+4D0]  0x7FF7B3339F00     (SkyrimSE.exe+2F69F00) (BSSmallBlockAllocator*)
+  [SP+4D8]  0x7FF7B0FD2352     (SkyrimSE.exe+C02352) (void*)
+  [SP+4E0]  0x0                (NULL)
+  [SP+4E8]  0xA0               (u8):[160]
+  [SP+4F0]  0x7FF7B228D280     (SkyrimSE.exe+1EBD280) (void*)
+  [SP+4F8]  0x7FF7B0FD2352     (SkyrimSE.exe+C02352) (void*)
+  [SP+500]  0x1E00000000       (u64):[128849018880]
+  [SP+508]  0x7FF7B169ED5E     (SkyrimSE.exe+12CED5E) (void*)
+  [SP+510]  0x0                (NULL)
+  [SP+518]  0xB82C7F320        (BSStream*)
+  [SP+520]  0x1                (u8):[1]
+  [SP+528]  0x7FF7B3865BF0     (SkyrimSE.exe+3495BF0) (void*)
+  [SP+530]  0x1AB06C8E140      (BSLightingShaderMaterial*)
+  [SP+538]  0x7FF7B16DC077     (SkyrimSE.exe+130C077) (void*)
+  [SP+540]  0x1AA2D63A750      (void*)
+  [SP+548]  0x7FF7B169EF5A     (SkyrimSE.exe+12CEF5A) (void*)
+  [SP+550]  0x1AC3A480230      (char**) "?"
+  [SP+558]  0x85B5137          (u32):[140202295]
+  [SP+560]  0x0                (NULL)
+  [SP+568]  0x1AC3A480230      (char**) "?"
+  [SP+570]  0x7FF7B3865BF0     (SkyrimSE.exe+3495BF0) (void*)
+  [SP+578]  0x7FF7B16DBDA1     (SkyrimSE.exe+130BDA1) (void*)
+  [SP+580]  0x1AC3A480230      (char**) "?"
+  [SP+588]  0xFFFFFFFF         (u32):[4294967295]
+  [SP+590]  0x0                (NULL)
+  [SP+598]  0x7FF7B16B53DE     (SkyrimSE.exe+12E53DE) (void*)
+  [SP+5A0]  0xB82C7F088        (void*)
+  [SP+5A8]  0x0                (NULL)
+  [SP+5B0]  0x0                (NULL)
+  [SP+5B8]  0x1AB06C8E188      (void*)
+  [SP+5C0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+5C8]  0x7FF7B0FD3E53     (SkyrimSE.exe+C03E53) (void*)
+  [SP+5D0]  0x1AB0692E688      (BSShaderTextureSet*)
+  [SP+5D8]  0xFFFFFFFF         (u32):[4294967295]
+  [SP+5E0]  0x1                (u8):[1]
+  [SP+5E8]  0x7FF7B169F537     (SkyrimSE.exe+12CF537) (void*)
+  [SP+5F0]  0x1AC3A4802D0      (char*) "?"
+  [SP+5F8]  0x1AB06C8E140      (BSLightingShaderMaterial*)
+  [SP+600]  0x0                (NULL)
+  [SP+608]  0x0                (NULL)
+  [SP+610]  0x1AB06C8E1D8      (void*)
+  [SP+618]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+620]  0x1AB06CCADC0      (BSLightingShaderProperty*) -> (Name: null)
+  [SP+628]  0x7FF7B1694E76     (SkyrimSE.exe+12C4E76) (void*)
+  [SP+630]  0x0                (NULL)
+  [SP+638]  0x0                (NULL)
+  [SP+640]  0xB82C7F1C9        (void*)
+  [SP+648]  0xFFFFFFFF         (u32):[4294967295]
+  [SP+650]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+658]  0x7FF7B1041039     (SkyrimSE.exe+C71039) (void*)
+  [SP+660]  0x13               (u8):[19]
+  [SP+668]  0xB82C7F320        (BSStream*)
+  [SP+670]  0x7FF7B33E38B0     (SkyrimSE.exe+30138B0) (char**) "NiSkinPartition"
+  [SP+678]  0x1AB069929C0      (BSMultiBoundAABB*)
+  [SP+680]  0x7FF7B1901DB0     (SkyrimSE.exe+1531DB0) (void*)
+  [SP+688]  0x7FF7B102BD71     (SkyrimSE.exe+C5BD71) (void*)
+  [SP+690]  0xB00000058        (u64):[47244640344]
+  [SP+698]  0xB82C7F320        (BSStream*)
+  [SP+6A0]  0xB82C7F1C9        (void*)
+  [SP+6A8]  0xB82C7F1C9        (void*)
+  [SP+6B0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+6B8]  0x7FF7B18F11A8     (SkyrimSE.exe+15211A8) (void*)
+  [SP+6C0]  0xB82C7F1B8        (ScrapHeap**)
+  [SP+6C8]  0x7FF7B18F11A8     (SkyrimSE.exe+15211A8) (void*)
+  [SP+6D0]  0xB82C7F198        (ScrapHeap**)
+  [SP+6D8]  0x1AB45FD8500      (ScrapHeap*)
+  [SP+6E0]  0x1AC3A480120      (void*)
+  [SP+6E8]  0x1AB00000040      (void*)
+  [SP+6F0]  0x7FF700000012     (u64):[140698833649682]
+  [SP+6F8]  0x1AB45FD8500      (ScrapHeap*)
+  [SP+700]  0x1AC3A480010      (void*)
+  [SP+708]  0xB00000040        (u64):[47244640320]
+  [SP+710]  0x1AB00000029      (void*)
+  [SP+718]  0x7FF7B0FF5B2B     (SkyrimSE.exe+C25B2B) (void*)
+  [SP+720]  0xFFFFFFFFFFFFFF00 (i64):[-256]
+  [SP+728]  0x7FF7B1900FA8     (SkyrimSE.exe+1530FA8) (void*)
+  [SP+730]  0xB82C7F320        (BSStream*)
+  [SP+738]  0xB82C7FAE0        (void*)
+  [SP+740]  0x40000000         (u32):[1073741824] (f32):[2]
+  [SP+748]  0xB82C7F2E0        (BSResourceNiBinaryStream*)
+  [SP+750]  0xB82C7F2E0        (BSResourceNiBinaryStream*)
+  [SP+758]  0xB82C7F320        (BSStream*)
+  [SP+760]  0x1AB0694B0F8      (char*) "Meshes\Terrain\DESSeaofGhosts\Objects\DESSeaofGhosts.8.-16.-32.BTO"
+  [SP+768]  0x7FF7B1029FBE     (SkyrimSE.exe+C59FBE) (void*)
+  [SP+770]  0xB82C7F200        (void*)
+  [SP+778]  0x0                (NULL)
+  [SP+780]  0xFFFFFFFF         (u32):[4294967295]
+  [SP+788]  0x0                (NULL)
+  [SP+790]  0xB82C7F428        (char*) "Meshes\Terrain\DESSeaofGhosts\Objects\DESSeaofGhosts.8.-16.-32.BTO"
+  [SP+798]  0x7FF7B11069D8     (SkyrimSE.exe+D369D8) (void*)
+  [SP+7A0]  0x0                (NULL)
+  [SP+7A8]  0x128              (u16):[296]
+  [SP+7B0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+7B8]  0x0                (NULL)
+  [SP+7C0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+7C8]  0x40000000         (u32):[1073741824] (f32):[2]
+  [SP+7D0]  0x1AB069995E8      (void*)
+  [SP+7D8]  0x1AB45FD8598      (char*) "("
+  [SP+7E0]  0x7FF7B32E46D0     (SkyrimSE.exe+2F146D0) (void*)
+  [SP+7E8]  0x7FF7B0870CCB     (SkyrimSE.exe+4A0CCB) (void*)
+  [SP+7F0]  0x1AB0694B0F8      (char*) "Meshes\Terrain\DESSeaofGhosts\Objects\DESSeaofGhosts.8.-16.-32.BTO"
+  [SP+7F8]  0x1AB0694B0F8      (char*) "Meshes\Terrain\DESSeaofGhosts\Objects\DESSeaofGhosts.8.-16.-32.BTO"
+  [SP+800]  0x0                (NULL)
+  [SP+808]  0x7FF7B32E46D0     (SkyrimSE.exe+2F146D0) (void*)
+  [SP+810]  0x1AB069A8F00      (void*)
+  [SP+818]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+820]  0x7FF7B1B39330     (SkyrimSE.exe+1769330) (void*)
+  [SP+828]  0x713A0            (u32):[463776]
+  [SP+830]  0x7FF7B10467B0     (SkyrimSE.exe+C767B0) (void*)
+  [SP+838]  0x7FF7B1046820     (SkyrimSE.exe+C76820) (void*)
+  [SP+840]  0x1AB00093D60      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+848]  0x0                (NULL)
+  [SP+850]  0x713A0            (u32):[463776]
+  [SP+858]  0x1AB01B93754      (void*)
+  [SP+860]  0x7FF7B1900FA8     (SkyrimSE.exe+1530FA8) (void*)
+  [SP+868]  0x47444F4C00000064 (u64):[5135316662945316964]
+  [SP+870]  0x302E302E33206E65 (u64):[3471765337733623397]
+  [SP+878]  0x684520796220302E (u64):[7513447259046948910]
+  [SP+880]  0x726974706F6C6D61 (u64):[8244248619132939617]
+  [SP+888]  0x616C695A202C6E61 (u64):[7020101754971516513]
+  [SP+890]  0x685320646E612076 (u64):[7517387818732167286]
+  [SP+898]  0x6E6F7365         (u32):[1852797797]
+  [SP+8A0]  0xFFFFFFFFFFFFFFFF (i64):[-1]
+  [SP+8A8]  0x10001B93720      (u64):[1099540543264]
+  [SP+8B0]  0x0                (NULL)
+  [SP+8B8]  0x20455020B10F955B (u64):[2325352883946493275]
+  [SP+8C0]  0x502072657473614D (u64):[5773740502359957837]
+  [SP+8C8]  0x20656C6369747261 (u64):[2334391156088271457]
+  [SP+8D0]  0x20736D6574737953 (u64):[2338332914048268627]
+  [SP+8D8]  0x7061685369725428 (u64):[8097868312449537064]
+  [SP+8E0]  0x726F6E206F6E2065 (u64):[8245930528326164581]
+  [SP+8E8]  0x100296C616D      (u64):[1100206596461]
+  [SP+8F0]  0x0                (NULL)
+  [SP+8F8]  0x1AB01B93720      (IOManager*)
+  [SP+900]  0x1AA80000000      (void*)
+  [SP+908]  0x0                (NULL)
+  [SP+910]  0x150123           (u32):[1376547]
+  [SP+918]  0x37               (u8):[55]
+  [SP+920]  0x1ABFCB47660      (void*)
+  [SP+928]  0x7FFD00000000     (u64):[140724603453440]
+  [SP+930]  0xC80000004        (u64):[53687091204]
+  [SP+938]  0x0                (NULL)
+  [SP+940]  0x5C73706D5C534548 (u64):[6661791888813802824]
+  [SP+948]  0x6C6174656D73706D (u64):[7809651207813951597]
+  [SP+950]  0x706D696B72617073 (u64):[8101247214910795891]
+  [SP+958]  0x6563696C00000001 (u64):[7305798933102460929]
+  [SP+960]  0xC14020007        (u64):[51875282951]
+  [SP+968]  0x545C73656873654D (u64):[6078860476424611149]
+  [SP+970]  0x445C6E6961727265 (u64):[4925933491321991781]
+  [SP+978]  0x47666F6165535345 (u64):[5144922088419840837]
+  [SP+980]  0x624F5C7374736F68 (u64):[7083982389821796200]
+  [SP+988]  0x45445C737463656A (u64):[4991215937977017706]
+  [SP+990]  0x6847666F61655353 (u64):[7514087131852395347]
+  [SP+998]  0x2D2E382E7374736F (u64):[3255601352792109935]
+  [SP+9A0]  0x422E32332D2E3631 (u64):[4768804250814658097]
+  [SP+9A8]  0x4F54             (u16):[20308]
+  [SP+9B0]  0x0                (NULL)
+  [SP+9B8]  0x30               (u8):[48]
+  [SP+9C0]  0x20               (u8):[32]
+  [SP+9C8]  0x8                (u8):[8]
+  [SP+9D0]  0x1AA75570000      (void*)
+  [SP+9D8]  0xB82C7F559        (void*)
+  [SP+9E0]  0x3                (u8):[3]
+  [SP+9E8]  0x7FFD96EBB3C7     (ntdll.dll+2B3C7) (void*)
+  [SP+9F0]  0x1AA75740000      (void*)
+  [SP+9F8]  0xB00000008        (u64):[47244640264]
+  [SP+A00]  0x20               (u8):[32]
+  [SP+A08]  0x1AC00000000      (void*)
+  [SP+A10]  0x0                (NULL)
+  [SP+A18]  0x7FFD5BC1558A     (usvfs_x64.dll+C558A) (void*)
+  [SP+A20]  0x2FE910000        (u64):[12860850176]
+  [SP+A28]  0x7FFD96E9A46C     (ntdll.dll+A46C) (void*)
+  [SP+A30]  0x2E0123           (u32):[3014947]
+  [SP+A38]  0x1010000004B      (u64):[1103806595147]
+  [SP+A40]  0x0                (NULL)
+  [SP+A48]  0x7FF7B1B358C0     (SkyrimSE.exe+17658C0) (void*)
+  [SP+A50]  0x1AA2D3724E8      (void*)
+  [SP+A58]  0x42               (u8):[66]
+  [SP+A60]  0x40000000000      (u64):[4398046511104]
+  [SP+A68]  0x101B1B358E0      (u64):[1106787916000]
+  [SP+A70]  0x0                (NULL)
+  [SP+A78]  0x7FF7B1B358D0     (SkyrimSE.exe+17658D0) (void*)
+  [SP+A80]  0x1AB06C8E1E8      (NiNode**) -> (Name: `obj`)
+  [SP+A88]  0x1300000013       (u64):[81604378643]
+  [SP+A90]  0x40000000013      (u64):[4398046511123]
+  [SP+A98]  0x7FF7B1B358F0     (SkyrimSE.exe+17658F0) (void*)
+  [SP+AA0]  0x1AB06B04AF0      (char*) "\"
+  [SP+AA8]  0x1300000013       (u64):[81604378643]
+  [SP+AB0]  0x100000013        (u64):[4294967315]
+  [SP+AB8]  0x7FF7B1B358D0     (SkyrimSE.exe+17658D0) (void*)
+  [SP+AC0]  0x1AB06C54588      (NiNode**) -> (Name: `obj`)
+  [SP+AC8]  0x100000001        (u64):[4294967297]
+  [SP+AD0]  0x100000001        (u64):[4294967297]
+  [SP+AD8]  0x7FF7B1B35910     (SkyrimSE.exe+1765910) (void*)
+  [SP+AE0]  0x1AB06C54598      (char**) "obj"
+  [SP+AE8]  0x100000001        (u64):[4294967297]
+  [SP+AF0]  0x8000000001       (u64):[549755813889]
+  [SP+AF8]  0xB82C7F2E0        (BSResourceNiBinaryStream*)
+  [SP+B00]  0x0                (NULL)
+  [SP+B08]  0x800000010        (u64):[34359738384]
+  [SP+B10]  0x7FF7B1B35960     (SkyrimSE.exe+1765960) (void*)
+  [SP+B18]  0xB00000025        (u64):[47244640293]
+  [SP+B20]  0x1AB06BBF4D0      (void*)
+  [SP+B28]  0x0                (NULL)
+  [SP+B30]  0xFFFF000000000000 (i64):[-281474976710656]
+  [SP+B38]  0x0                (NULL)
+  [SP+B40]  0x300000013        (u64):[12884901907]
+  [SP+B48]  0x0                (NULL)
+  [SP+B50]  0x0                (NULL)
+  [SP+B58]  0x0                (NULL)
+  [SP+B60]  0xFFFFFFFF00000002 (i64):[-4294967294]
+  [SP+B68]  0xFFFFFFFF         (u32):[4294967295]
+  [SP+B70]  0x0                (NULL)
+  [SP+B78]  0x0                (NULL)
+  [SP+B80]  0x0                (NULL)
+  [SP+B88]  0x0                (NULL)
+  [SP+B90]  0x0                (NULL)
+  [SP+B98]  0x0                (NULL)
+  [SP+BA0]  0x0                (NULL)
+  [SP+BA8]  0x0                (NULL)
+  [SP+BB0]  0x0                (NULL)
+  [SP+BB8]  0x0                (NULL)
+  [SP+BC0]  0x0                (NULL)
+  [SP+BC8]  0x0                (NULL)
+  [SP+BD0]  0x0                (NULL)
+  [SP+BD8]  0x0                (NULL)
+  [SP+BE0]  0x0                (NULL)
+  [SP+BE8]  0x0                (NULL)
+  [SP+BF0]  0x0                (NULL)
+  [SP+BF8]  0x0                (NULL)
+  [SP+C00]  0x0                (NULL)
+  [SP+C08]  0x0                (NULL)
+  [SP+C10]  0x0                (NULL)
+  [SP+C18]  0x0                (NULL)
+  [SP+C20]  0x0                (NULL)
+  [SP+C28]  0x0                (NULL)
+  [SP+C30]  0x0                (NULL)
+  [SP+C38]  0x0                (NULL)
+  [SP+C40]  0x0                (NULL)
+  [SP+C48]  0x0                (NULL)
+  [SP+C50]  0x0                (NULL)
+  [SP+C58]  0x0                (NULL)
+  [SP+C60]  0x0                (NULL)
+  [SP+C68]  0x0                (NULL)
+  [SP+C70]  0x0                (NULL)
+  [SP+C78]  0x0                (NULL)
+  [SP+C80]  0x0                (NULL)
+  [SP+C88]  0x1                (u8):[1]
+  [SP+C90]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+C98]  0x7FF7B0502BEA     (SkyrimSE.exe+132BEA) (void*)
+  [SP+CA0]  0xB82C7FB08        (BSResource::EntryDB<BGSBtrDB::DBTraits>**)
+  [SP+CA8]  0x0                (NULL)
+  [SP+CB0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+CB8]  0x1AB06AAE6B8      (BSFadeNode*) -> (Name: `IceFloes01`)
+  [SP+CC0]  0x7FF7B33C74F8     (SkyrimSE.exe+2FF74F8) (void*)
+  [SP+CC8]  0x7FF7B0FFA689     (SkyrimSE.exe+C2A689) (void*)
+  [SP+CD0]  0x7FF7B33C74F8     (SkyrimSE.exe+2FF74F8) (void*)
+  [SP+CD8]  0x1471             (u16):[5233]
+  [SP+CE0]  0x2C               (u8):[44]
+  [SP+CE8]  0xB82C7F840        (void*)
+  [SP+CF0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+CF8]  0x7FF7B0673053     (SkyrimSE.exe+2A3053) (void*)
+  [SP+D00]  0x1AB45FD8500      (ScrapHeap*)
+  [SP+D08]  0x7FF7B0FD3E53     (SkyrimSE.exe+C03E53) (void*)
+  [SP+D10]  0x0                (NULL)
+  [SP+D18]  0x1AC3A4801A8      (void*)
+  [SP+D20]  0x1AC3A480000      (void*)
+  [SP+D28]  0x7FF7B0FF8DEA     (SkyrimSE.exe+C28DEA) (void*)
+  [SP+D30]  0x1AC3A4801A8      (void*)
+  [SP+D38]  0x7FF7B0FD3A34     (SkyrimSE.exe+C03A34) (void*)
+  [SP+D40]  0x1AC3A4801A8      (void*)
+  [SP+D48]  0x1AC3A480000      (void*)
+  [SP+D50]  0x0                (NULL)
+  [SP+D58]  0x0                (NULL)
+  [SP+D60]  0x0                (NULL)
+  [SP+D68]  0x7FF7B0FDCCD3     (SkyrimSE.exe+C0CCD3) (void*)
+  [SP+D70]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+D78]  0x0                (NULL)
+  [SP+D80]  0x0                (NULL)
+  [SP+D88]  0x0                (NULL)
+  [SP+D90]  0x0                (NULL)
+  [SP+D98]  0x0                (NULL)
+  [SP+DA0]  0x0                (NULL)
+  [SP+DA8]  0x0                (NULL)
+  [SP+DB0]  0x0                (NULL)
+  [SP+DB8]  0x0                (NULL)
+  [SP+DC0]  0x0                (NULL)
+  [SP+DC8]  0x0                (NULL)
+  [SP+DD0]  0x0                (NULL)
+  [SP+DD8]  0x0                (NULL)
+  [SP+DE0]  0x0                (NULL)
+  [SP+DE8]  0x0                (NULL)
+  [SP+DF0]  0x0                (NULL)
+  [SP+DF8]  0x0                (NULL)
+  [SP+E00]  0x0                (NULL)
+  [SP+E08]  0x0                (NULL)
+  [SP+E10]  0x0                (NULL)
+  [SP+E18]  0x0                (NULL)
+  [SP+E20]  0x0                (NULL)
+  [SP+E28]  0x0                (NULL)
+  [SP+E30]  0x0                (NULL)
+  [SP+E38]  0x0                (NULL)
+  [SP+E40]  0x0                (NULL)
+  [SP+E48]  0x0                (NULL)
+  [SP+E50]  0x0                (NULL)
+  [SP+E58]  0x0                (NULL)
+  [SP+E60]  0x0                (NULL)
+  [SP+E68]  0x0                (NULL)
+  [SP+E70]  0x0                (NULL)
+  [SP+E78]  0x1AB00000000      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+E80]  0x0                (NULL)
+  [SP+E88]  0x0                (NULL)
+  [SP+E90]  0x7FF7B32E46D0     (SkyrimSE.exe+2F146D0) (void*)
+  [SP+E98]  0x1AB069995C0      (char*) "?\?.bto"
+  [SP+EA0]  0x1AB00093D60      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+EA8]  0x7FF7B0875798     (SkyrimSE.exe+4A5798) (void*)
+  [SP+EB0]  0x1AB00093D60      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+EB8]  0x1                (u8):[1]
+  [SP+EC0]  0x7FF700000002     (u64):[140698833649666]
+  [SP+EC8]  0x0                (NULL)
+  [SP+ED0]  0x48               (u8):[72]
+  [SP+ED8]  0x1AB00000001      (void*)
+  [SP+EE0]  0x1AB00093D60      (BSResource::anonymous_namespace::LooseFileStream*)
+  [SP+EE8]  0x0                (NULL)
+  [SP+EF0]  0xFFFFFFFFFFFFFFFE (i64):[-2]
+  [SP+EF8]  0x0                (NULL)
+  [SP+F00]  0x7FF7B32DF5E0     (SkyrimSE.exe+2F0F5E0) (void*)
+  [SP+F08]  0x7FF7B32DF510     (SkyrimSE.exe+2F0F510) (BSResource::EntryDB<BGSBtoDB::DBTraits>*)
+  [SP+F10]  0x1AB069995C0      (char*) "?\?.bto"
+  [SP+F18]  0x7FF7B0875B7A     (SkyrimSE.exe+4A5B7A) (void*)
+  [SP+F20]  0x7FF7B32E46D0     (SkyrimSE.exe+2F146D0) (void*)
+  [SP+F28]  0xB82C7FC00        (void*)
+  [SP+F30]  0xA0000001         (u32):[2684354561]
+  [SP+F38]  0x7FF7B10FD82E     (SkyrimSE.exe+D2D82E) (void*)
+  [SP+F40]  0xB20000000        (u64):[47781511168]
+  [SP+F48]  0x1AB0699E8E8      (void*)
+  [SP+F50]  0x0                (NULL)
+  [SP+F58]  0x1AB0699E8E8      (void*)
+  [SP+F60]  0xB82C7FAB0        (void*)
+  [SP+F68]  0x7FF7B0872EF0     (SkyrimSE.exe+4A2EF0) (void*)
+  [SP+F70]  0xB82C7FC00        (void*)
+  [SP+F78]  0x0                (NULL)
+  [SP+F80]  0x7FF7B32DF510     (SkyrimSE.exe+2F0F510) (BSResource::EntryDB<BGSBtoDB::DBTraits>*)
+  [SP+F88]  0x1AB06999680      (char*) ")?]Vbto"
+  [SP+F90]  0x0                (NULL)
+  [SP+F98]  0xB82C7FB88        (anonymous_namespace::anonymous_namespace::Pauser*)
+  [SP+FA0]  0x0                (NULL)
+  [SP+FA8]  0x0                (NULL)
+  [SP+FB0]  0x7                (u8):[7]
+  [SP+FB8]  0xB82C7FC10        (void*)
+  [SP+FC0]  0x7FF7B32DF518     (SkyrimSE.exe+2F0F518) (void*)
+  [SP+FC8]  0x7FF7B0874730     (SkyrimSE.exe+4A4730) (void*)
+  [SP+FD0]  0x1AB0699E8D0      (void*)
+  [SP+FD8]  0xB82C7FAB0        (void*)
+  [SP+FE0]  0x7FF7B32DF510     (SkyrimSE.exe+2F0F510) (BSResource::EntryDB<BGSBtoDB::DBTraits>*)
+  [SP+FE8]  0x7FFD9493257D     (KERNELBASE.dll+6257D) (void*)
+  [SP+FF0]  0x7FF7B32DF5E0     (SkyrimSE.exe+2F0F5E0) (void*)
+  [SP+FF8]  0xB82C7FB88        (anonymous_namespace::anonymous_namespace::Pauser*)
+}
+
+Modules
+{
+  SkyrimSE.exe:                                     0x7FF7B03D0000
+  ntdll.dll:                                        0x7FFD96E90000
+  KERNEL32.DLL:                                     0x7FFD96410000
+  KERNELBASE.dll:                                   0x7FFD948D0000
+  USER32.dll:                                       0x7FFD969C0000
+  win32u.dll:                                       0x7FFD94E60000
+  GDI32.dll:                                        0x7FFD95AA0000
+  gdi32full.dll:                                    0x7FFD94D50000
+  msvcp_win.dll:                                    0x7FFD94CB0000
+  ucrtbase.dll:                                     0x7FFD94740000
+  ADVAPI32.dll:                                     0x7FFD950E0000
+  msvcrt.dll:                                       0x7FFD96290000
+  sechost.dll:                                      0x7FFD95040000
+  RPCRT4.dll:                                       0x7FFD95230000
+  SHELL32.dll:                                      0x7FFD95360000
+  ole32.dll:                                        0x7FFD95F00000
+  combase.dll:                                      0x7FFD95BA0000
+  WS2_32.dll:                                       0x7FFD96950000
+  SETUPAPI.dll:                                     0x7FFD964D0000
+  cfgmgr32.dll:                                     0x7FFD94E90000
+  XINPUT1_3.dll:                                    0x400000
+  X3DAudio1_7.dll:                                  0x61AE0000
+  DINPUT8.dll:                                      0x7FFD57F80000
+  bcrypt.dll:                                       0x7FFD945B0000
+  binkw64.dll:                                      0x180000000
+  OLEAUT32.dll:                                     0x7FFD95AD0000
+  IPHLPAPI.DLL:                                     0x7FFD939E0000
+  WINHTTP.dll:                                      0x7FFD1F3F0000
+  steam_api64.dll:                                  0x61880000
+  WSOCK32.dll:                                      0x7FFD91850000
+  MSVCP140.dll:                                     0x7FFD75650000
+  VCRUNTIME140.dll:                                 0x7FFD79AC0000
+  d3dx9_42.dll:                                     0x7FFD8D710000
+  COMDLG32.dll:                                     0x7FFD96330000
+  d3d11.dll:                                        0x7FFD90A20000
+  shcore.dll:                                       0x7FFD96DA0000
+  HID.DLL:                                          0x7FFD92E60000
+  SHLWAPI.dll:                                      0x7FFD96C90000
+  WINMM.dll:                                        0x7FFD87A10000
+  dxgi.dll:                                         0x7FFD92EA0000
+  VCRUNTIME140_1.dll:                               0x7FFD772D0000
+  COMCTL32.dll:                                     0x7FFD8DF00000
+  tbbmalloc.dll:                                    0x7FFD56010000
+  UxTheme.dll:                                      0x7FFD91FF0000
+  tbb.dll:                                          0x7FFD52FD0000
+  WINHTTP.DLL:                                      0x7FFD8C330000
+  IMM32.DLL:                                        0x7FFD95190000
+  skse64_steam_loader.dll:                          0x7FFD89210000
+  VERSION.dll:                                      0x7FFD8C6C0000
+  windows.storage.dll:                              0x7FFD926D0000
+  Wldp.dll:                                         0x7FFD94000000
+  profapi.dll:                                      0x7FFD944F0000
+  inputhost.dll:                                    0x7FFD8A5C0000
+  wintypes.dll:                                     0x7FFD90460000
+  CoreMessaging.dll:                                0x7FFD91C00000
+  PROPSYS.dll:                                      0x7FFD8FEF0000
+  CoreUIComponents.dll:                             0x7FFD91440000
+  bcryptPrimitives.dll:                             0x7FFD94840000
+  ntmarta.dll:                                      0x7FFD932A0000
+  kernel.appcore.dll:                               0x7FFD924D0000
+  usvfs_x64.dll:                                    0x7FFD5BB50000
+  steamclient64.dll:                                0x7FFD01620000
+  CRYPT32.dll:                                      0x7FFD945E0000
+  imagehlp.dll:                                     0x7FFD961F0000
+  PSAPI.DLL:                                        0x7FFD951C0000
+  tier0_s64.dll:                                    0x7FFD1F0F0000
+  vstdlib_s64.dll:                                  0x7FFD1F360000
+  MSWSOCK.dll:                                      0x7FFD93CF0000
+  Secur32.dll:                                      0x7FFD6F7F0000
+  SSPICLI.DLL:                                      0x7FFD94470000
+  CRYPTBASE.DLL:                                    0x7FFD93F70000
+  FPSFixPlugin.dll:                                 0x7FFD8D600000
+  NetScriptFramework.Runtime.dll:                   0x7FFD88390000
+  dbghelp.dll:                                      0x7FFD798D0000
+  mscoree.dll:                                      0x7FFD7BED0000
+  mscoreei.dll:                                     0x7FFD7B4E0000
+  clr.dll:                                          0x7FFD7A270000
+  VCRUNTIME140_CLR0400.dll:                         0x7FFD7C300000
+  ucrtbase_clr0400.dll:                             0x7FFD79F50000
+  mscorlib.ni.dll:                                  0x7FFD78060000
+  clrjit.dll:                                       0x7FFD772E0000
+  amsi.dll:                                         0x7FFD876F0000
+  USERENV.dll:                                      0x7FFD944B0000
+  MpOav.dll:                                        0x7FFD87670000
+  MPCLIENT.DLL:                                     0x7FFD7AE20000
+  gpapi.dll:                                        0x7FFD92E70000
+  System.ni.dll:                                    0x7FFD75870000
+  System.Core.ni.dll:                               0x7FFD74310000
+  urlmon.dll:                                       0x7FFD835C0000
+  iertutil.dll:                                     0x7FFD880A0000
+  srvcli.dll:                                       0x7FFD83590000
+  netutils.dll:                                     0x7FFD93AF0000
+  NetScriptFramework.SkyrimSE.dll:                  0x7FFD1ECB0000
+  EngineFixes.dll:                                  0x7FFD1EFF0000
+  skse64_1_5_97.dll:                                0x7FFD12550000
+  CCExtender.dll:                                   0x7FFD23040000
+  ConsoleUtilSSE.dll:                               0x7FFD134B0000
+  CopyPaste.dll:                                    0x7FFD34B40000
+  FixNotesForSkyUI.dll:                             0x7FFD87260000
+  Fuz Ro D'oh.dll:                                  0x7FFD22B60000
+  JContainers64.dll:                                0x7FFD012E0000
+  KeyboardShortcutsFix.dll:                         0x7FFD84040000
+  MCMHelper.dll:                                    0x1AA7CF90000
+  MoreInformativeConsole.dll:                       0x7FFD13430000
+  NotificationLogSSE.dll:                           0x7FFD123A0000
+  PapyrusUtil.dll:                                  0x7FFD12130000
+  po3_PapyrusExtender.dll:                          0x1AB47380000
+  SkyrimPriority.dll:                               0x7FFD12340000
+  SSEDisplayTweaks.dll:                             0x7FFD11210000
+  gameoverlayrenderer64.dll:                        0x7FFD11030000
+  MSCTF.dll:                                        0x7FFD96B70000
+  textinputframework.dll:                           0x7FFD8D270000
+  nvldumdx.dll:                                     0x7FFD8A200000
+  msasn1.dll:                                       0x7FFD94190000
+  cryptnet.dll:                                     0x7FFD8C700000
+  WINTRUST.DLL:                                     0x1AB9BCE0000
+  CRYPTSP.dll:                                      0x7FFD93F50000
+  rsaenh.dll:                                       0x7FFD93610000
+  nvwgf2umx.dll:                                    0x7FFD4B100000
+  nvspcap64.dll:                                    0x7FFD553B0000
+  NvCamera64.dll:                                   0x7FFD00B60000
+  XINPUT9_1_0.dll:                                  0x7FFD8D700000
+  WindowsCodecs.dll:                                0x7FFD8D730000
+  dxcore.dll:                                       0x7FFD8B460000
+  d3dcompiler_47_64.dll:                            0x7FFD0B1A0000
+  nvapi64.dll:                                      0x7FFD827B0000
+  dcomp.dll:                                        0x7FFD91250000
+  dwmapi.dll:                                       0x7FFD921E0000
+  DEVOBJ.dll:                                       0x7FFD94370000
+  XAudio2_7.dll:                                    0x7FFD10870000
+  clbcatq.dll:                                      0x7FFD96CF0000
+  MMDevApi.dll:                                     0x7FFD8B060000
+  resourcepolicyclient.dll:                         0x7FFD920F0000
+  AUDIOSES.DLL:                                     0x7FFD7DC60000
+  powrprof.dll:                                     0x7FFD93DE0000
+  UMPDC.dll:                                        0x7FFD93DC0000
+  Windows.UI.dll:                                   0x7FFD8D490000
+  WindowManagementAPI.dll:                          0x7FFD8DCD0000
+  twinapi.appcore.dll:                              0x7FFD8D980000
+  avrt.dll:                                         0x7FFD8EC40000
+  DSOUND.DLL:                                       0x7FFD87A80000
+  winmmbase.dll:                                    0x7FFD7BE80000
+  MessageBus.dll:                                   0x7FFD764F0000
+  NSI.dll:                                          0x7FFD94F40000
+  dhcpcsvc.DLL:                                     0x7FFD8E470000
+  wbemprox.dll:                                     0x7FFD8B020000
+  wbemcomn.dll:                                     0x7FFD877A0000
+  wbemsvc.dll:                                      0x7FFD865E0000
+  fastprox.dll:                                     0x7FFD86600000
+  dhcpcsvc6.DLL:                                    0x7FFD8EC10000
+  DNSAPI.dll:                                       0x7FFD93A20000
+  webio.dll:                                        0x7FFD7C590000
+  WINNSI.DLL:                                       0x7FFD8EC30000
+  rasadhlp.dll:                                     0x7FFD8B100000
+  fwpuclnt.dll:                                     0x7FFD8A720000
+  schannel.DLL:                                     0x7FFD93530000
+  mskeyprotect.dll:                                 0x7FFD7C0D0000
+  NTASN1.dll:                                       0x7FFD94030000
+  ncrypt.dll:                                       0x7FFD94070000
+  ncryptsslp.dll:                                   0x7FFD7C180000
+  DPAPI.DLL:                                        0x7FFD943B0000
+}
+
+Plugins (2)
+{
+  actor_limit
+  {
+    Name: "Actor Limit Plugin"
+    Version: 2
+    Assembly: ActorLimitPlugin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  }
+
+  bug_fixes
+  {
+    Name: "Bug Fixes SSE"
+    Version: 1
+    Author: "meh321"
+    Assembly: BugFixesSSE, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  }
+}
+
+Extra
+{
+  Currently executing hooks (0)
+  {
+  }
+}
+
+Game plugins (13)
+{
+  [00] Skyrim.esm
+  [01] Update.esm
+  [02] Dawnguard.esm
+  [03] HearthFires.esm
+  [04] Dragonborn.esm
+  [05] Unofficial Skyrim Special Edition Patch.esp
+  [06] Unofficial Skyrim Modders Patch.esp
+  [07] SkyUI_SE.esp
+  [08] Review Studio.esp
+  [09] Alternate Start - Live Another Life.esp
+  [0A] Rise in the East.esp
+  [FE 000] NotificationLog.esp
+  [FE 001] MCMHelper.esp
+}

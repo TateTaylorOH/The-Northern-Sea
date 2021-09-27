@@ -1,3 +1,5 @@
+## Main Quest
+
 ### Troubled Waters
 
 - Some time after Rise of the East is complete you get a letter to meet an EEC rep in the Windhelm office.
@@ -33,4 +35,6 @@ After that you move into post-quest content. The Rep will offer salvage jobs in 
 
 The meat of the mod is in exploration around the Sea of Ghosts. The main quest is used more to introduce the Player to the worldspace rather than to be the meat of the mod. The main quest only takes the player to three locations: Japhet's Folly, the Northern Sea Fort, and the Republic of pirates. There is still several other points of interest, including three other Sea Forts to assault with Flame-Beard, six small islands, and an inhabited settlement.
 
-![](https://raw.githubusercontent.com/TateTaylorUSA/Rise-in-the-East/main/Docs/WaterworldMap.png) 
+![](https://raw.githubusercontent.com/TateTaylorUSA/Rise-in-the-East/main/Docs/WaterworldMap.png)
+
+## Side Quests

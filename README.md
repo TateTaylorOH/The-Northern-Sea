@@ -1,5 +1,4 @@
 # The Northern Sea
-(working title)
 
 ### Troubled Waters
 

@@ -36,7 +36,7 @@
 
 ## The Shadow War
 
-After the conclusion of the Main Quest several radiant quests will be offered by the EEC Rep and Captain Flame-Beard as part of the newly sparked "Shadow War" between the EEC and Aldmeri Dominion.
+After the conclusion of the Main Quest several quests will begin to be offered by the EEC Rep and Captain Flame-Beard as part of the newly sparked "Shadow War" between the EEC and Aldmeri Dominion.
 
 ### Salvage Jobs
 

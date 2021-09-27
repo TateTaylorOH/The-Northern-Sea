@@ -8,12 +8,12 @@
 - You get a tour of the place, everything is ruined but not on fire. Workers mill about working on the island. The two Towers of Japhet's Folly have already been repaired. After the tour the Rep asks if the Player would want to help them protect Japhet's Folly while it is being repaired. The Rep offers them a share of stock in the Japhet's Folly division of the EEC and explains that they don't currently have the means of offering you gold. The Stock will be worth a non-trivial amount of gold from the start and can be cashed in at any time, but the more quests they do the more it will be worth.
 - The Rep tells you that the EEC believes the infamous Captain Hastein Flame-Beard is the leader of the resurgent pirate faction, but admits that it is strange that he is suddenly giving the EEC so much trouble when he'd been active in the region for a long time. You are sent to run protection on a sensitive shipment bound for an exchange in Solitude. 
 
-### 
+### Full Sail to Solitude
 
 - You board the ship and during transit you are attacked by pirates. They appear to be normal pirates, but there are a few strange things about them, most notably that they are all wielding Elven weapons. You defeat them and make it to Solitude and back without issue.
 - When you return he Rep congratulates you on your successful mission and lets you know you will be contacted when they are in need of your services.
 
-### No Quarter
+### Give No Quarter
 
 - You receive a letter from the Rep telling you to report to Japhet's Folly at the earliest convenience. When you arrive to Japhet's Folly the first level of the island has been repaired. It is explained that they had discovered pirates based out of a nearby Sea Fort and it was in need of capturing.
 - Go assault and capture the Sea Fort. There are subtle differences with this group of pirates. You capture the fort and find documents talking about how Flame-Beard's fleet had been having rough times lately and they'd been in constant conflict with an old rival faction of pirates, but who was once a nuisance is actively threatening Flame-Beard's supremacy. You return back to Folly and tell the Rep what you found. He finds the new highly disturbing because the EEC was sure that Flame-Beard was responsible for the attacks on EEC ships, but these documents appeared to contradict that. You leave and wait to be contacted again.

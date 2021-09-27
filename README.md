@@ -24,7 +24,7 @@
 - When you arrive it is clear that the ship did not crash, but it was clearly destroyed in a battle. You find the cargo and the body of a Thalmor Justicar. On him is a letter linking the Thalmor to a group of rival pirates and details their plans to topple Flame-Beard's fleet and install their own privateers as the clear power in the Sea of Ghosts to continue to strain Imperial trade between their remaining provinces.
 - When you report back the Rep is highly disturbed by the news and makes it clear that this evidence cannot leave the island because it would cause an international scandal. However, he knows that they can't just let the Thalmor disrupt EEC shipping. The Rep tells you that they will need to think about the situation. You leave.
 
-### The Shadow War
+### Dead in the Water
 
 - You receive a letter telling you to report to Japhet's Folly. When you arrive the third section of the island is repaired. The Rep tells you that they have a crazy plan. They explain that the Thalmor privateers are not only threatening the EEC in the region, but also Flame-Beard's fleet. He tells the Player that they are going to travel to Flame-Beard's fortified shanty town to negotiate a contract between the EEC and Flame-Beard. 
 - The Player and the Rep travel to Flame-Beard's "Republic of Pirates" in the Shipwreck Archipelago and speak with the pirate. Negotiations go poorly, but are interupted by an assault by Thalmor privateers. After fending off the attackers Flame-Beard grudgingly admits that they need eachother, at least for now. A contract is signed and Flame-Beard and his entire fleet is pardoned by the EEC so long that the contract is upheld.

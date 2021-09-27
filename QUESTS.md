@@ -40,7 +40,7 @@ After the conclusion of the Main Quest several quests will begin to be offered b
 
 ### Salvage Jobs
 
-The EEC Rep will offer you a radiant quest to go and salvage surviving goods from a shipwreck in order to turn some profit from the loss.
+The EEC Rep will offer a radiant quest to go and salvage surviving goods from a shipwreck in order to turn some profit from the loss.
 
 ### Pirate Hunts
 

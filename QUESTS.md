@@ -1,5 +1,3 @@
-# The Northern Sea
-
 ### Troubled Waters
 
 - Some time after Rise of the East is complete you get a letter to meet an EEC rep in the Windhelm office.

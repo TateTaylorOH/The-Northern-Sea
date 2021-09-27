@@ -1,7 +1,7 @@
-# Troubled Waters - Explore the Sea of Ghosts
+# The Northern Sea
 (working title)
 
-### Japhet's Fortune
+### Troubled Waters
 
 - Some time after Rise of the East is complete you get a letter to meet an EEC rep in the Windhelm office.
 - You meet the Rep who thanks you for handling the Blood Horkers, but explains that the pirate activity in the Sea of Ghosts has, strangely, gotten worse after the Blood Horkers were defeated. Trade on the High Rock - Morrowind corridor is worse than ever. Japhet's Folly is in a good position to project their interests in the Sea of Ghosts and act as a staging ground for offense against pirates. He takes you to see Japhet's Folly.

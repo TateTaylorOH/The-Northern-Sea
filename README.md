@@ -27,7 +27,7 @@
 ### The Shadow War
 
 - You receive a letter telling you to report to Japhet's Folly. When you arrive the third section of the island is repaired. The Rep tells you that they have a crazy plan. They explain that the Thalmor privateers are not only threatening the EEC in the region, but also Flame-Beard's fleet. He tells the Player that they are going to travel to Flame-Beard's fortified shanty town to negotiate a contract between the EEC and Flame-Beard. 
-- The Player and the Rep travel to Flame-Beard's "Republic of Pirates" in the Shipwreck Archipelago and speak with the pirate.
+- The Player and the Rep travel to Flame-Beard's "Republic of Pirates" in the Shipwreck Archipelago and speak with the pirate. Negotiations go poorly, but are interupted by an assault by Thalmor privateers. After fending off the attackers Flame-Beard grudgingly admits that they need eachother, at least for now. A contract is signed and Flame-Beard and his entire fleet is pardoned by the EEC so long that the contract is upheld.
 - The Player and Rep return to Japhet's Folly and the Rep talks about how it is going to get really interesting in the Sea of Ghosts (maybe he actually uses the term "Shadow War"). He tells the Player that the EEC was in a safe position for now but that they will need to begin fighting back against the Thalmor pirates.
 
 ### Post-quest Content

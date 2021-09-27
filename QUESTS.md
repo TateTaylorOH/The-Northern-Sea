@@ -44,7 +44,7 @@ The EEC Rep will offer you a radiant quest to go and salvage surviving goods fro
 
 ### Pirate Hunts
 
-Captain Flame-Beard will offer a combat-centric radiant quest where you board his flagship and engage in a boarding party against Thalmor ships.
+Captain Flame-Beard will offer a combat-centric radiant quest where you board his flagship and hunt for Thalmor ships to board and sieze.
 
 ### Sea Fort Assaults
 

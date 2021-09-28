@@ -49,3 +49,37 @@ Captain Flame-Beard will offer a combat-centric radiant quest where you board hi
 ### Sea Fort Assaults
 
 Captain Flame-Beard will offer a special series of quests where you travel with him to retake several sea forts that had fallen to the Thalmor Privateers. The assaults will happen in two phases, the first phase involves disabling the enemy catapults in order to make landing at the fort safe. The second phase involves laying anchor at the fort and taking it by foot. After capturing the fort Flame-Beard will give you the choice to either claim it for the EEC or his fleet. Each faction will result in a slightly different reward.  There are only three Sea Forts in the Sea of Ghosts (not counting the one seized during *Give No Quarter*) so this quest is not endlessly repeatable.
+
+## Lost Treasure of the Pirate Queen
+
+The Player goes on an island-hopping treasure hunt to find the lost treasure of Fortunata ap Dugal.
+
+## Hunt for the Hundrungr
+
+Help a small girl get over her fear of the ferocious monster, the Hundrungr.
+
+## The Lost Colony
+
+Unravel the mystery of an abandoned settlement farther north than any previously known inhabitation.
+
+## The Lighthouse
+
+A distress letter comes to Japhet's Folly from an isolated lighthouse. You are asked to investigate the situation, however, there may more to the message than meets the eye...
+
+# Expansion Content
+
+## Heart of the Sea (ShipMod)
+
+Run protection on a merchant ship en route to Daggerfall. 
+
+## Blood in the Water (Pirate Council Arc)
+
+After an upset in the Republic of Pirates help restore order to the archipelago or risk the onset of a bloodly pirate civil war.
+
+## An Ancient Evil (Toft Arc)
+
+Something sinister is stirring under the waters in the east. The denezins of the small tribal community of Toft have begun to act strange and it is up to you to discover the source of this threat before it is too late.
+
+## The Western Sea (Shadow War Arc)
+
+Travel to the Abecean Sea with Florian and Flame-Beard in an attempt to end the Thalmor - Company Shadow War once and for all.

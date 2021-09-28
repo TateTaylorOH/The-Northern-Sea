@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/TateTaylorUSA/The-Northern-Sea/main/Docs/Northern%20Sea.png)
+![](https://raw.githubusercontent.com/TateTaylorUSA/The-Northern-Sea/main/Docs/Northern%20Sea%20Small.png)
 
 The Sea of Ghosts has long been steeped in mystery and myth. The expanse of icy water captured the minds of early sailors and legends of the region have lived on for hundreds of years. For many the Sea of Ghosts is an ominous place that they would never willingly venture to. However,to others it is an untapped potential for wealth.
 

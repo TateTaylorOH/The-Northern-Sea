@@ -1,4 +1,5 @@
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/WaterworldMap.png)
+*(outdated)*
 
 ## Settlements
 
@@ -20,22 +21,44 @@ The Republic of Pirates is a fledgling democracy located in an dangerous archipe
 
 ## Islands
 
-### Central Island
+### Black Islet
+
+An unusually foggy and dark island south of the Abandoned Settlement.
+
+### Dragonskull Rock
+
+A small island dominated by an ancient dragon skeleton.
 
 ### Isolated Isle
 
-### Lighthouse Island
+An island to the far north with a single deserted house on it.
 
-### North Island
+### Seabright Lighthouse
 
-### South Island
+Seabright Lighthouse is the only freestanding lighthouse in the Sea of Ghosts. It sits on a small island in the east alongside a house for the lighthouse keeper.
 
 ### Twin Islands
 
+Two barren islands to the west of Japhet's Folly.
+
+### Shipwreck Island
+
+Just east of the Republic of Pirates, Shipwreck Island is said to be haunted by the souls who made it from wrecks in the nearby archipelago. The island is dotted with old survivor camps, unmarked graves, and skeletons.
+
 ## Sea Forts
 
-### Fort [name]
+### Fort Seagard
+![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/northern-sea/ScreenShot199.png)
+A small sea fort located southwest of Japhet's Folly.
 
-### Fort [name]
+### Fort Hamar
 
-### Fort [name]
+A small sea fort located in the northern Sea of Ghosts.
+
+### Fort Jarmun
+
+A small sea fort located in the western Sea of Ghosts.
+
+### Fort Travail
+
+A small sea fort located in the eastern Sea of Ghosts.

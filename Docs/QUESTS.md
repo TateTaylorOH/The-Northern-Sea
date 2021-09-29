@@ -1,6 +1,3 @@
-
-![](https://raw.githubusercontent.com/TateTaylorUSA/Rise-in-the-East/main/Docs/WaterworldMap.png)
-
 # Main Quest
 
 ## Troubled Waters

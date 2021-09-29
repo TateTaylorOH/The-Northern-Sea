@@ -57,7 +57,7 @@ Unravel the mystery of an [abandoned settlement](https://github.com/TateTaylorUS
 
 ## The Lighthouse
 
-A distress letter comes to Japhet's Folly from an [isolated lighthouse](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#seabright-lighthouse). You are asked to investigate the situation, however, there may more to the message than meets the eye...
+A distress letter comes to Japhet's Folly from an [isolated lighthouse](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#seabright-lighthouse). You are asked to investigate the situation, however, there may be more to the message than meets the eye...
 
 # Expansion Content
 

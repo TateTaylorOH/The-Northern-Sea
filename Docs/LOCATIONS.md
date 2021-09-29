@@ -37,13 +37,13 @@ An island to the far north with a single deserted house on it.
 
 Seabright Lighthouse is the only freestanding lighthouse in the Sea of Ghosts. It sits on a small island in the east alongside a house for the lighthouse keeper.
 
+### Shipwreck Island
+
+Just east of the Republic of Pirates, Shipwreck Island is said to be haunted by the souls who made it from wrecks in the nearby archipelago but still died on the island. It is dotted with old survivor camps, unmarked graves, and skeletons.
+
 ### Twin Islands
 
 Two barren islands to the west of Japhet's Folly.
-
-### Shipwreck Island
-
-Just east of the Republic of Pirates, Shipwreck Island is said to be haunted by the souls who made it from wrecks in the nearby archipelago. The island is dotted with old survivor camps, unmarked graves, and skeletons.
 
 ## Sea Forts
 

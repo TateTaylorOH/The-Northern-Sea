@@ -36,11 +36,11 @@
 
 ## The Shadow War
 
-After the conclusion of the Main Quest several quests will begin to be offered by the EEC Rep and Captain Flame-Beard as part of the newly sparked "Shadow War" between the EEC and Aldmeri Dominion.
+After the conclusion of the Main Quest several quests will begin to be offered by Florian and Captain Flame-Beard as part of the newly sparked "Shadow War" between the EEC and Aldmeri Dominion.
 
 ### Salvage Jobs
 
-The EEC Rep will offer a radiant quest to go and salvage surviving goods from a shipwreck in order to turn some profit from the loss.
+Florian will offer a radiant quest to go and salvage surviving goods from a shipwreck in order to turn some profit from the loss.
 
 ### Pirate Hunts
 

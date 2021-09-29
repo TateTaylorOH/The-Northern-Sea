@@ -16,6 +16,7 @@ The dream of an overly ambitious man, Japhet's Folly was built by its namesake, 
 
 ### Republic of Pirates
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/RepublicofPirates.png)
+The Republic of Pirates is a fledgling democracy located in an dangerous archipelago that has become to resting place of many shipwrecks. The entire Republic is constructed out of the salvage of decades of sunken ships that have found their place in the archipelago which has led to a peculiar looking shantytown built atop of several spires of rock. The Republic was founded by Captain Hastein Flame-Beard when he finally united the disparate groups of pirate crews across the Sea of Ghosts. They needed to stick together or powers like the East Empire Company would ultimately destroy them. In the Republic every man belongs to himself and has the choice of what crew he wants to serve. Captains are elected democratically by the ship's crew and leaders can be ousted at any time. Flame-Beard himself acts as a mediator between all of the oftentimes not-so-friendly crews. The Republic has existed in an uneasy peace for around two years, but the cracks have begun to show.
 
 ## Islands
 

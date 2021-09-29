@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/TateTaylorUSA/The-Northern-Sea/main/Docs/WaterworldMap.png)
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/WaterworldMap.png)
 
 ### Abandoned Settlement
 

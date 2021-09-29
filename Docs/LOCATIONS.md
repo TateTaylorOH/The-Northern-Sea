@@ -4,11 +4,11 @@
 
 ### Abandoned Settlement
 
-In the far northwest of the Sea of Ghosts an abandoned East Empire Company settlement can be found. It appears to have been establish some time in the third era, but no record of its 
+In the far northwest of the Sea of Ghosts an abandoned East Empire Company settlement can be found. It appears to have been establish some time in the Third Era, but no record of its existance can be found.
 
 ### Dunbarrow
 ![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/northern-sea/ScreenShot213.png)
-To the south sits the small village of Dunbarrow. The people there survive almost purely off fishing and, despite the community's size, is able to export a considerable amount of extra fish to the mainland via their contract with the East Empire Company.
+To the south sits the small village of Dunbarrow. The people there survive almost purely off fishing and, despite the community's size, is able to export a considerable amount of extra fish to the mainland via their contract with the East Empire Company. Dunbarrow is said to be the birthplace of the infamous pirate captain Torradan ap Dugal.
 
 ### Japhet's Folly
 ![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/northern-sea/ScreenShot141.png)

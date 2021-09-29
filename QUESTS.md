@@ -52,7 +52,7 @@ Captain Flame-Beard will offer a special series of quests where you travel with 
 
 ## Lost Treasure of Captain Torradan
 
-The Player goes on an island-hopping treasure hunt to find the lost treasure of Fortunata ap Dugal.
+The Player goes on an island-hopping treasure hunt to find the lost treasure of Torradan ap Dugal.
 
 ## The Lost Colony
 

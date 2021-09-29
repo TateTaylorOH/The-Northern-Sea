@@ -50,13 +50,9 @@ Captain Flame-Beard will offer a combat-centric radiant quest where you board hi
 
 Captain Flame-Beard will offer a special series of quests where you travel with him to retake several sea forts that had fallen to the Thalmor Privateers. The assaults will happen in two phases, the first phase involves disabling the enemy catapults in order to make landing at the fort safe. The second phase involves laying anchor at the fort and taking it by foot. After capturing the fort Flame-Beard will give you the choice to either claim it for the EEC or his fleet. Each faction will result in a slightly different reward.  There are only three Sea Forts in the Sea of Ghosts (not counting the one seized during *Give No Quarter*) so this quest is not endlessly repeatable.
 
-## Lost Treasure of the Pirate Queen
+## Lost Treasure of Captain Torradan
 
 The Player goes on an island-hopping treasure hunt to find the lost treasure of Fortunata ap Dugal.
-
-## Hunt for the Hundrungr
-
-Help a small girl get over her fear of the ferocious monster, the Hundrungr.
 
 ## The Lost Colony
 
@@ -76,9 +72,9 @@ Run protection on a merchant ship en route to Daggerfall.
 
 After an upset in the Republic of Pirates help restore order to the archipelago or risk the onset of a bloodly pirate civil war.
 
-## An Ancient Evil (Toft Arc)
+## An Ancient Evil (Dunbarrow Arc)
 
-Something sinister is stirring under the waters in the east. The denezins of the small tribal community of Toft have begun to act strange and it is up to you to discover the source of this threat before it is too late.
+Something sinister is stirring under the waters in the east. The denezins of the small village of Dunbarrow have begun to act strange and it is up to you to discover the source of this threat before it is too late.
 
 ## The Western Sea (Shadow War Arc)
 

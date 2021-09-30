@@ -1,4 +1,5 @@
-![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/Northern%20Sea%20Small.png)﻿
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/Northern%20Sea%20Small.png)
+
 The Sea of Ghosts has long been steeped in mystery and myth. The expanse of icy water captured the minds of early sailors and legends of the region have lived on for hundreds of years. For many the Sea of Ghosts is an ominous place that they would never willingly venture to. However, to others it is an untapped potential for wealth.
 
 One of the East Empire Company's most profitable trade lanes between High Rock and Morrowind cuts through the Sea of Ghosts. Traders employed by the Company often make the voyage through the treacherous waters. Despite the defeat of the infamous Blood Horker pirate gang, the region has become nearly impossible to navigate. Pirate attacks are almost a guarantee, and lately they have been growing bolder and more effective than ever before.

@@ -42,7 +42,7 @@ Just east of the Republic of Pirates, Shipwreck Island is said to be haunted by 
 
 ### Twin Islands
 
-Two barren islands to the west of Japhet's Folly.
+Two barren islands to the west of Dunbarrow.
 
 ## Sea Forts
 
@@ -52,12 +52,12 @@ A small sea fort located southwest of Japhet's Folly.
 
 ### Fort Hamar
 
-A small sea fort located in the northern Sea of Ghosts.
+A small sea fort located in the eastern Sea of Ghosts.
 
 ### Fort Jarmun
 
-A small sea fort located in the western Sea of Ghosts.
+A small sea fort located in the northern Sea of Ghosts.
 
 ### Fort Travail
 
-A small sea fort located in the eastern Sea of Ghosts.
+A small sea fort located in the western Sea of Ghosts.

@@ -35,27 +35,27 @@
 
 After the conclusion of the Main Quest several quests will begin to be offered by Florian and Captain Flame-Beard as part of the newly sparked "Shadow War" between the EEC and Aldmeri Dominion.
 
-### Salvage Jobs
+### Salvage Jobs (Japhet's Folly)
 
 Florian will offer a radiant quest to go and salvage surviving goods from a shipwreck in order to turn some profit from the loss.
 
-### Sea Fort Assaults
+### Sea Fort Assaults (Republic of Pirates)
 
 Captain Flame-Beard will offer a special series of quests where you travel with him to retake several [sea forts](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#sea-forts) that had fallen to the Thalmor Privateers. The assaults will happen in two phases, the first phase involves disabling the enemy catapults in order to make landing at the fort safe. The second phase involves laying anchor at the fort and taking it by foot. After capturing the fort Flame-Beard will give you the choice to either claim it for the EEC or his fleet. Each faction will result in a slightly different reward.  There are only three Sea Forts in the Sea of Ghosts (not counting the one seized during *Give No Quarter*) so this quest is not endlessly repeatable.
 
-### Pirate Hunts
+### Pirate Hunts (Republic of Pirates)
 
 After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard will begin to offer a new combat-centric radiant quest where you board his flagship and hunt for Thalmor ships to board and sieze.
 
-## Lost Treasure of Captain Torradan
+## Lost Treasure of Captain Torradan (Dunbarrow)
 
 The Player goes on an island-hopping treasure hunt to find the lost treasure of Torradan ap Dugal.
 
-## The Lost Colony
+## The Lost Colony (Republic of Pirates)
 
 Unravel the mystery of an [abandoned settlement](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#abandoned-settlement) farther north than any previously known inhabitation.
 
-## The Lighthouse
+## The Lighthouse (Japhet's Folly)
 
 A distress letter comes to Japhet's Folly from an [isolated lighthouse](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#seabright-lighthouse). You are asked to investigate the situation, however, there may be more to the message than meets the eye...
 

@@ -10,7 +10,7 @@
 ## Private Interests
 
 - You board the ship and during transit you are attacked by pirates. They appear to be normal pirates, but there are a few strange things about them, most notably that they are all wielding Elven weapons. You defeat them and make it to Solitude and back without issue.
-- When you return he Rep congratulates you on your successful mission and lets you know you will be contacted when they are in need of your services.
+- When you return Florian congratulates you on your successful mission and lets you know you will be contacted when they are in need of your services.
 
 ## Give No Quarter
 
@@ -27,7 +27,7 @@
 
 - You receive a letter telling you to report to Japhet's Folly. When you arrive the third section of the island is repaired. Florian tells you that they have a crazy plan. They explain that the Thalmor privateers are not only threatening the EEC in the region, but also Flame-Beard's fleet. He tells the Player that they are going to travel to Flame-Beard's fortified shanty town to negotiate a contract between the EEC and Flame-Beard. 
 - The Player and Florian travel to Flame-Beard's "[Republic of Pirates](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#republic-of-pirates)" and speak with the pirate. Negotiations go poorly, but are interupted by an assault by Thalmor privateers. After fending off the attackers Flame-Beard grudgingly admits that they need eachother, at least for now. A contract is signed and Flame-Beard and his entire fleet is pardoned by the EEC so long that the contract is upheld.
-- The Player and Rep return to Japhet's Folly and Florian talks about how it is going to get really interesting in the Sea of Ghosts (maybe he actually uses the term "Shadow War"). He tells the Player that the EEC was in a safe position for now but that they will need to begin fighting back against the Thalmor pirates.
+- The Player and Florian return to Japhet's Folly and Florian talks about how it is going to get really interesting in the Sea of Ghosts (maybe he actually uses the term "Shadow War"). He tells the Player that the EEC was in a safe position for now but that they will need to begin fighting back against the Thalmor pirates.
 
 # Side Quests
 

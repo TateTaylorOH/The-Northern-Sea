@@ -47,7 +47,7 @@ Captain Flame-Beard will offer a special series of quests where you travel with 
 
 After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard will begin to offer a new combat-centric radiant quest where you board his flagship and hunt for Thalmor ships to board and sieze.
 
-## Lost Treasure of Captain Torradan (Dunbarrow)
+## Treasure of Captain Torradan (Dunbarrow)
 
 The Player goes on an island-hopping treasure hunt to find the lost treasure of Torradan ap Dugal.
 

@@ -1,0 +1,27 @@
+{
+	"mapMarkers": [{
+		"refID": "SeaofGhosts.esp|0x0000800",
+		"icon": 161
+	}, {
+		"refID": "SeaofGhosts.esp|0x002BD5F",
+		"icon": 98
+	}, {
+		"refID": "SeaofGhosts.esp|0x002EE0F",
+		"icon": 98
+	}, {
+		"refID": "SeaofGhosts.esp|0x002EF24",
+		"icon": 89
+	}, {
+		"refID": "SeaofGhosts.esp|0x0037ECB",
+		"icon": 127
+	}, {
+		"refID": "SeaofGhosts.esp|0x007C19C",
+		"icon": 163
+	}, {
+		"refID": "SeaofGhosts.esp|0x0085439",
+		"icon": 98
+	}, {
+		"refID": "SeaofGhosts.esp|0x008B423",
+		"icon": 98
+	}]
+}

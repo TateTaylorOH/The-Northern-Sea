@@ -40,13 +40,13 @@ After the conclusion of the Main Quest several quests will begin to be offered b
 
 Florian will offer a radiant quest to go and salvage surviving goods from a shipwreck in order to turn some profit from the loss.
 
-### Sea Fort Assaults (Republic of Pirates)
-
-Both Florian and Captain Flame-Beard will offer a special series of quests where you travel with him to retake several [sea forts](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#sea-forts) that had fallen to the Thalmor Privateers. The assaults will happen in two phases, the first phase involves disabling the enemy catapults in order to make landing at the fort safe. The second phase involves laying anchor at the fort and taking it by foot. You can start a sea fort assault by talking to either Flamebeard or Florian, whoever you go with will determine what faction takes control of the fort, there will be slightly different rewards depending on who you choose.  There are only three Sea Forts in the Sea of Ghosts (not counting the one seized during *Give No Quarter*) so this quest is not endlessly repeatable.
-
 ### Pirate Hunts (Republic of Pirates)
 
 After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard will begin to offer a new combat-centric radiant quest where you board his flagship and hunt for Thalmor ships to board and sieze.
+
+### Sea Fort Assaults (Republic of Pirates)
+
+Both Florian and Captain Flame-Beard will offer a special series of quests where you travel with him to retake several [sea forts](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#sea-forts) that had fallen to the Thalmor Privateers. The assaults will happen in two phases, the first phase involves disabling the enemy catapults in order to make landing at the fort safe. The second phase involves laying anchor at the fort and taking it by foot. You can start a sea fort assault by talking to either Flamebeard or Florian, whoever you go with will determine what faction takes control of the fort, there will be slightly different rewards depending on who you choose.  There are only three Sea Forts in the Sea of Ghosts (not counting the one seized during *Give No Quarter*) so this quest is not endlessly repeatable.
 
 ## Treasure of Captain Torradan (Dunbarrow)
 

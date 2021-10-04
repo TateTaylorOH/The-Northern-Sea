@@ -24,9 +24,9 @@ The Republic of Pirates is a fledgling democracy located in an dangerous archipe
 
 An unusually foggy and dark island south of the Abandoned Settlement.
 
-### Dragonskull Rock
-
-A small island dominated by an ancient dragon skeleton.
+### Sanctus
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/Sanctus.png)
+In the center of the Sea of Ghosts sits the cursed ruins of Sanctus. Built in the Second Era to protect the northern shores of Tamriel from the invading Akaviri, the settlement was ultimately overrun by the onslaught of foreign invaders. The islands is literred with the remains of ancient warriors, both Imperial and Akaviri. The only still-standing structure in the omonius Temple of Reman which overlooks to rest of the ruined town. The four sea forts present in the Sea of Ghosts were originally constructed to help defend Sanctus, they are now used by both pirates and the EEC to respectively help raid and protect trade routes.
 
 ### Isolated Isle
 

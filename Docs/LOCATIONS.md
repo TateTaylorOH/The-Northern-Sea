@@ -1,6 +1,6 @@
 
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/WaterworldMap.png)
-The Sea of Ghosts is divided into three regions: the hospitibal and relatively safe Dunbarrow Passage, the treacherous and pirate-filled Shipwreck Archipelago, and the mysterious and haunted Phantom Waters.
+The Sea of Ghosts is divided into three regions: the hospitable and relatively safe [Dunbarrow Passage](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#dunbarrow-passage), the treacherous and pirate-filled [Shipwreck Archipelago](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#shipwreck-archipelago), and the mysterious and haunted [Phantom Waters](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#phantom-waters).
 
 # Dunbarrow Passage
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/DunbarrowPassage.PNG)

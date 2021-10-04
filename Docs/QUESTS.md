@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/Northern%20Sea%20Small.png)
 # Main Quest
 
 ## Troubled Waters

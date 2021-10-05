@@ -22,7 +22,7 @@ A small sea fort located in the eastern Sea of Ghosts.
 Seabright Lighthouse is the only freestanding lighthouse in the Sea of Ghosts. It sits on a small island in the east alongside a house for the lighthouse keeper.
 
 # Shipwreck Archipelago
-![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/ShipwreckIslands.PNG)
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/ShipwreckArchipelago.PNG)
 
 Shipwreck Archipelago gets its name for how dangerous these waters are. They are dotted with rocks and the rough waves of the region has sent many a sailor to his death. Only the most foolhardy merchants travel through the archipelago, usually determined to make better time than their rivals. The only ones who are comfortable in these waters are pirates, many of whom have become so comfortable navigating the dangerous terrian that they have made it their permanant home.
 

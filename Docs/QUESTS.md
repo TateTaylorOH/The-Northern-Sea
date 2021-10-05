@@ -66,7 +66,7 @@ Unravel the mystery of an [abandoned settlement](https://github.com/TateTaylorUS
 
 The planned post-release content will focus on adding new content and stories to the Shipwreck Archipelago and Dunbarrow Passage. A sequel is also planned that will take place in a similar Abecean Sea worldspace which will be much warmer and more colorful.
 
-## Heart of the Sea (Japhet's Folly)
+## Heart of the Sea (ShipMod)
 
 Run protection on a merchant ship en route to Daggerfall. 
 

@@ -70,7 +70,7 @@ The planned post-release content will focus on adding new content and stories to
 
 Run protection on a merchant ship en route to Daggerfall. 
 
-## Blood in the Water (Pirate Council Arc)
+## Skull and Bones (Pirate Council Arc)
 
 After an upset in [Republic of Pirates](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#republic-of-pirates) help restore order to the archipelago or risk the onset of a bloodly pirate civil war.
 

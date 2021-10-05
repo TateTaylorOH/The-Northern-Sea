@@ -6,7 +6,7 @@ The Sea of Ghosts is divided into three regions: the hospitable and relatively s
 # Dunbarrow Passage
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/DunbarrowPassage.PNG)
 
-The Dunbarrow Passage is a small region that comprises of only three islands. It is relatively safe compared to the rest of the Sea of Ghosts and hosts its own real settlement: the titular Dunbarrow. The passage runs between Dunbarrow to the west and Seabright Lighthouse to the east, Fort Hamar sits towards the center of the two and protects traffic through the waterway. This is the most common route that ships will take will traveling from Skyrim's ports into the Sea of Ghosts.
+The Dunbarrow Passage is a small region that comprises of only three islands. It is relatively safe compared to the rest of the Sea of Ghosts and hosts a single settlement: the titular Dunbarrow. The passage runs between Dunbarrow to the west and Seabright Lighthouse to the east, Fort Hamar sits towards the center of the two and protects traffic through the waterway. This is the most common route that ships will take will traveling from Skyrim's ports into the Sea of Ghosts.
 
 ## Dunbarrow
 ![](https://github.com/TateTaylorUSA/TateTaylorUSA/raw/main/assets/images/northern-sea/ScreenShot213.png)

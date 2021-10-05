@@ -46,7 +46,7 @@ Two barren islands to the west of Dunbarrow.
 # Phantom Waters
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/PhantomWaters.PNG)
 
-Far to the north lays the Phantom Waters. This area is infamous among sailors for being haunted. It is rarely traversed by merchants coming from port in Skyrim, however an important trade route between High Rock and Morrowind cut through these waters. Merchants tend not to stay in the area for long due to supersition. Pirates have long taken advantage of the area to raid the trade routes and turn a hefty profit. Recently the pirate active has been getting worse and worse, forcing the East Empire Company to establish a permendant martial presence in the region to ensure the flow of trade and continue uninterrupted.
+Far to the north lays the Phantom Waters. This area is infamous among sailors for being haunted. It is rarely traversed by merchants coming from port in Skyrim, however an important trade route between High Rock and Morrowind cut through these waters. Merchants tend not to stay in the area for long due to supersition. Pirates have long taken advantage of the area to raid the trade routes and turn a hefty profit. Recently the pirate active has been getting worse and worse, forcing the East Empire Company to establish a permendant martial presence in the region to ensure the flow of trade can continue uninterrupted.
 
 ## Abandoned Settlement
 

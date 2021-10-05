@@ -30,7 +30,7 @@
 - The Player and Florian travel to Flame-Beard's "[Republic of Pirates](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#republic-of-pirates)" and speak with the pirate. Negotiations go poorly, but are interupted by an assault by Thalmor privateers. After fending off the attackers Flame-Beard grudgingly admits that they need eachother, at least for now. A contract is signed and Flame-Beard and his entire fleet is pardoned by the EEC so long that the contract is upheld.
 - The Player and Florian return to Japhet's Folly and Florian talks about how it is going to get really interesting in the Sea of Ghosts (maybe he actually uses the term "Shadow War"). He tells the Player that the EEC was in a safe position for now but that they will need to begin fighting back against the Thalmor pirates.
 
-# Side Quests
+# Radiant Quests
 
 ## The Shadow War
 
@@ -48,17 +48,15 @@ After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard wil
 
 Both Florian and Captain Flame-Beard will offer a special series of quests where you travel with one of the two to retake several [sea forts](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#sea-forts) that had fallen to the Thalmor Privateers. The assaults will happen in two phases, the first phase involves disabling the enemy catapults in order to make landing at the fort safe. The second phase involves laying anchor at the fort and taking it by foot. You can start a sea fort assault by talking to either Flame-Beard or Florian, whoever you go with will determine what faction takes control of the fort, there will be slightly different rewards depending on who you choose.  There are only three Sea Forts in the Sea of Ghosts (not counting the one seized during *Give No Quarter*) so this quest is not endlessly repeatable.
 
-## Treasure of Captain Torradan (Dunbarrow)
+# Unmarked Quests
+
+## Treasure of Captain Torradan
 
 The Player goes on an island-hopping treasure hunt to find the lost treasure of Torradan ap Dugal.
 
-## The Lost Colony (Republic of Pirates)
+## The Lost Colony
 
 Unravel the mystery of an [abandoned settlement](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#abandoned-settlement) farther north than any previously known inhabitation.
-
-## The Lighthouse (Japhet's Folly)
-
-A distress letter comes to Japhet's Folly from an [isolated lighthouse](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#seabright-lighthouse). You are asked to investigate the situation, however, there may be more to the message than meets the eye...
 
 # Expansion Content
 

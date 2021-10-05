@@ -1,6 +1,8 @@
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/Northern%20Sea%20Small.png)
 # Main Quest
 
+The Main Quest will serve as a sort of sequel to Rise in the East. It will begin some time after Rise is completed.
+
 ## Troubled Waters
 
 - Some time after Rise of the East is complete you get a letter to meet an EEC rep named Florian in the Windhelm office.
@@ -50,7 +52,9 @@ After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard wil
 
 # Unmarked Quests
 
-## Treasure of Captain Torradan
+There will be a few unmarked pseudo-quests that the Player can pursue. They will end in some type of small reward once the Player has followed all the leads to the end.
+
+## The Treasure of Captain Torradan
 
 The Player goes on an island-hopping treasure hunt to find the lost treasure of Torradan ap Dugal.
 
@@ -59,6 +63,8 @@ The Player goes on an island-hopping treasure hunt to find the lost treasure of 
 Unravel the mystery of an [abandoned settlement](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#abandoned-settlement) farther north than any previously known inhabitation.
 
 # Expansion Content
+
+The planned post-release content will focus on adding new content and stories to the Shipwreck Archipelago and Dunbarrow Passage. A Sequel is also planned that will take place in a similar Abecean Sea worldspace which will be much warmer and more colorful.
 
 ## Heart of the Sea (ShipMod)
 

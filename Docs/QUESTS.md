@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/Northern%20Sea%20Small.png)
 # Main Quest
 
-The Main Quest will serve as a sort of sequel to Rise in the East. It will begin some time after Rise is completed.
+The Main Quest will serve as a sort of sequel to Rise in the East. It will begin some time after Rise is completed. All the main quests will begin in Japhet's Folly.
 
 ## Troubled Waters
 

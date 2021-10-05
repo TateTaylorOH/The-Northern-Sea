@@ -36,17 +36,17 @@ The Main Quest will serve as a sort of sequel to Rise in the East. It will begin
 
 After the conclusion of the Main Quest several quests will begin to be offered by Florian and Captain Flame-Beard as part of the newly sparked "Shadow War" between the EEC and Aldmeri Dominion.
 
-## Assault on Fort <Alias=FortName> (Japhet's Folly/Republic of Pirates)
+## Assault on Fort <Alias=FortName> ([Japhet's Folly](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#japhets-folly)/[Republic of Pirates](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#republic-of-pirates))
 
 Both Florian and Captain Flame-Beard will offer a special series of quests where you travel with one of the two to retake several [sea forts](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#sea-forts) that had fallen to the Thalmor Privateers. The assaults will happen in two phases, the first phase involves disabling the enemy catapults in order to make landing at the fort safe. The second phase involves laying anchor at the fort and taking it by foot. You can start a sea fort assault by talking to either Flame-Beard or Florian, whoever you go with will determine what faction takes control of the fort, there will be slightly different rewards depending on who you choose.  There are only three Sea Forts in the Sea of Ghosts (not counting the one seized during [Give No Quarter](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/QUESTS.md#give-no-quarter)) so this quest is not endlessly repeatable.
 
 ## Radiant Quests
 
-### Salvage Jobs (Japhet's Folly)
+### Salvage Jobs ([Japhet's Folly](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#japhets-folly))
 
 Florian will offer a radiant quest to go and salvage surviving goods from a shipwreck in order to turn some profit from the loss.
 
-### Pirate Hunts (Republic of Pirates)
+### Pirate Hunts ([Republic of Pirates](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#republic-of-pirates))
 
 After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard will begin to offer a new combat-centric radiant quest where you board his flagship and hunt for Thalmor ships to board and sieze.
 
@@ -54,11 +54,11 @@ After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard wil
 
 There will be a few unmarked pseudo-quests that the Player can pursue. They will end in some type of small reward once the Player has followed all the leads to the end.
 
-## The Treasure of Captain Torradan (Dunbarrow)
+## The Treasure of Captain Torradan ([Dunbarrow](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#dunbarrow)
 
 The Player goes on an island-hopping treasure hunt to find the lost treasure of Torradan ap Dugal.
 
-## The Lost Colony (Shipwreck Island)
+## The Lost Colony ([Shipwreck Island](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#shipwreck-island))
 
 Unravel the mystery of an [abandoned settlement](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#abandoned-settlement) farther north than any previously known inhabitation.
 

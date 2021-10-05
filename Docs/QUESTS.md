@@ -54,7 +54,7 @@ After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard wil
 
 There will be a few unmarked pseudo-quests that the Player can pursue. They will end in some type of small reward once the Player has followed all the leads to the end.
 
-## The Treasure of Captain Torradan ([Dunbarrow](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#dunbarrow)
+## The Treasure of Captain Torradan ([Dunbarrow](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#dunbarrow))
 
 The Player goes on an island-hopping treasure hunt to find the lost treasure of Torradan ap Dugal.
 

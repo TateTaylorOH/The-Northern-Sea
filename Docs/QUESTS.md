@@ -54,11 +54,11 @@ After capturing the three sea forts in the Sea of Ghosts Captain Flame-Beard wil
 
 There will be a few unmarked pseudo-quests that the Player can pursue. They will end in some type of small reward once the Player has followed all the leads to the end.
 
-## The Treasure of Captain Torradan
+## The Treasure of Captain Torradan (Dunbarrow)
 
 The Player goes on an island-hopping treasure hunt to find the lost treasure of Torradan ap Dugal.
 
-## The Lost Colony
+## The Lost Colony (Shipwreck Island)
 
 Unravel the mystery of an [abandoned settlement](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#abandoned-settlement) farther north than any previously known inhabitation.
 

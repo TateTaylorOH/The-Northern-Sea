@@ -1,3 +1,4 @@
+![](https://raw.githubusercontent.com/TateTaylorUSA/TateTaylorUSA/main/assets/images/northern-sea/Northern%20Sea%20Small.png)
 ## The Sea It Rises 
 The sea it rises with a mighty roar\
 The wind it blows from a distant shore\

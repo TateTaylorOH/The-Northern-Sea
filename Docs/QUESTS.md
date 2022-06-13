@@ -19,12 +19,12 @@ You return to Florian and he tells you that he will not make the same mistake of
 He establishes that these places are three static forts and gives some exposition about the clan running the first one and you go there and kill everyone. Flamebeard finds the first part of the Republic of Pirates code and explains what it is. You return to Japhet’s Folly and Florian tells you to do your thing while he and Flamebeard work together and tells you to talk to him and Flamebeard for the next two fort assaults, which you can do in either order.
 
 
-# EEC3A
+ EEC3A
 
 You talk to Florian about the next fort assault and he mentions something he achieved in your absence. He gives the exposition he received from Flamebeard about the next clan and you go out and deal with them like in Rise in The East, but with backup. You find another part of the code and return to Japhet’s Folly.
 
 
-# EEC3B
+ EEC3B
 
 You talk to Flamebeard about the next fort assault and he mentions something he and his men achieved in the meantime. He gives you the exposition about the clan you are about to face and you deal with them in a way befitting of a pirate. You find the last clue and return to Japhet’s Folly.
 
@@ -36,11 +36,11 @@ Once both EEC3A and EEC3B are complete Flamebeard uses the parts of the code he 
 
 The preparations are ready, the whole fleet can be seen at the entrance and Japhet’s Folly is completely repaired and filled with troops. Flamebeard proposes he goes in disguised as himself and causes pandemonium so the rest of the EEC troops can come in uncontested. He’ll fire a firebolt or something recognizable so Florian knows when to come in. Florian on the other hand proposes going in the classic way of bombarding them from a distance and sending in troops. He proposes using Flamebeard’s ship for the bombarding since it has a lot more space for catapults, while he will use his ships to get the troops to land. They ask you about which approach you think is better and you give an answer and a reason why, which convinces whoever’s plan you did not pick. Florian settles the matter and you go out to destroy the Republic of Pirates with the plan you three agreed on.
 
-# EEC4A
+ EEC4A
 
 As Flamebeard’s catapults are bombarding Shipwreck Island you are sailing on Florian’s ship. You can interact with a rowboat to get on shore in a mini EEC D-Day, where you have to break through the well guarded entrance of the Republic of Pirates in some way. Florian is your follower in this section. You storm the place and once you make it in you kill all the pirates. Florian and Flamebeard meet up and you return to Japhet’s Folly.
 
-# EEC4B
+ EEC4B
 
 Flamebeard hoists the Elder Scrolls’ Jolly Roger and you enter the republic of pirates. He talks to someone there who tells him about how terrible things have been going lately and you walk into the camp. Suddenly one of the pirates there shouts that he recognizes you as an EEC member from the Adelaisa ambush. Flamebeard fires the signal and everyone starts killing everyone, Flamebeard is your follower in this section. The EEC comes in with the same rowboats from EEC4A and you kill the pirates. Flamebeard and Florian meet up and you return to Japhet’s Folly.
 

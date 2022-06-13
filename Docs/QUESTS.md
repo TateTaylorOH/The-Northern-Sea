@@ -3,42 +3,52 @@
 
 The Main Quest will serve as a sort of sequel to Rise in the East. It will begin some time after Rise is completed. All the main quests will begin in Japhet's Folly.
 
-## Troubled Waters
+## EEC1
 
-- Some time after Rise of the East is complete you get a letter to meet an EEC rep named Florian in the Windhelm office.
-- You meet Florian who thanks you for handling the Blood Horkers, but explains that the pirate activity in the Sea of Ghosts has, strangely, gotten worse after the Blood Horkers were defeated. Trade on the High Rock - Morrowind corridor is worse than ever. [Japhet's Folly](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#japhets-folly) is in a good position to protect their interests in the Sea of Ghosts and act as a staging ground for offense against pirates. He takes you to see Japhet's Folly.
-- You get a tour of the place, everything is ruined but not on fire. Workers mill about working on the island. The two Towers of Japhet's Folly have already been repaired. After the tour Florian asks if the Player would want to help them protect Japhet's Folly while it is being repaired. Florian offers them a share of stock in the Japhet's Folly division of the EEC and explains that they don't currently have the means of offering you gold. The Stock will be worth a non-trivial amount of gold from the start and can be cashed in at any time, but the more quests they do the more it will be worth.
-- Florian tells you that the EEC believes the infamous Captain Hastein Flame-Beard is the leader of the resurgent pirate faction, but admits that it is strange that he is suddenly giving the EEC so much trouble when he'd been active in the region for a long time. You are sent to run protection on a sensitive shipment bound for an exchange in Solitude. 
+You have completed Rise in the East and some time has passed. A guard tells you that the EEC is recruiting people at the East Empire Company warehouse in solitude. A quest to apply there is added. You head inside and see a ship that has docked there. You speak to a man named Florian who asks you your name. When you give it to him he acknowledges your accomplishments at Japhet’s Folly and establishes the EEC’s goals to build a chapter there. He mentions that given your previous work you can sign on as a Fixer. You sign some document (TG logbook) and receive a set of EEC armor and a share as a signing bonus.
 
-## Private Interests
 
-- You board the ship and during transit you are attacked by pirates. They appear to be normal pirates, but there are a few strange things about them, most notably that they are all wielding Elven weapons. You defeat them and make it to Solitude and back without issue.
-- When you return Florian congratulates you on your successful mission and lets you know you will be contacted when they are in need of your services.
+## EEC2
 
-## Give No Quarter
+When ready, you take the ship and arrive at Japhet’s Folly upon which Florian informs you that his boss Adelaisa is about to escort a valuable group of ships. You have a little down time but are suddenly assaulted by pirates at Fake Sanctus. Things go wrong and you wash up on the island, fast travel is now disabled. You are tasked with building a fire and a little survival mission in which you encounter the first clue to Ap Dugal's treasure hunt is found. You build the fire on the beach and an EEC trade ship picks you up. You head back to Japhet’s Folly and report to Florian on what happened. Florian tells you to wait for your orders while he assumes his position as the new head of the chapter and gets everything back in order. 
+(Note for the Ap Dugal Treasure hunt: Real Sanctus will be recognizable to you because of the burnt out fire on the beach)
 
-- You receive a letter from Florian telling you to report to Japhet's Folly at the earliest convenience. When you arrive to Japhet's Folly the first level of the island has been repaired. It is explained that they had discovered pirates based out of a nearby [Sea Fort](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#fort-seagard) and it was in need of capturing.
-- Go assault and capture the [Sea Fort](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#fort-seagard). There are subtle differences with this group of pirates. You capture the fort and find documents talking about how Flame-Beard's fleet had been having rough times lately and they'd been in constant conflict with an old rival faction of pirates, but who was once a nuisance is actively threatening Flame-Beard's supremacy. You return back to Folly and tell Florian what you found. He finds the new highly disturbing because the EEC was sure that Flame-Beard was responsible for the attacks on EEC ships, but these documents appeared to contradict that. You leave and wait to be contacted again.
+## EEC3
 
-## Frozen Assets
+You return to Florian and he tells you that he will not make the same mistake of not knowing who he is up against. He tasks you with going to the retired pirate extraordinaire Flamebeard and asks you to convince him to come work with the company. You find Flamebeard at his home doing some extravagant Flamebeard things and find a way to convince him. He comes with you to Japhet’s Folly and explains to Florian who the Republic of Pirates are. He mentions that the EEC cannot defeat them because they cannot find them. Their ships are always mobile and they meet in different places every time. However, they still have to store their loot and he knows where each clan stores theirs. 
+He establishes that these places are three static forts and gives some exposition about the clan running the first one and you go there and kill everyone. Flamebeard finds the first part of the Republic of Pirates code and explains what it is. You return to Japhet’s Folly and Florian tells you to do your thing while he and Flamebeard work together and tells you to talk to him and Flamebeard for the next two fort assaults, which you can do in either order.
 
-- You receive a letter telling you to report to Japhet's Folly. When you arrive the second level of the island is repaired. Florian explains that one of their ships recently went down in transit to Morrowind. You are sent to retrieve what cargo you can from the wreck. 
-- When you arrive it is clear that the ship did not crash, but it was clearly destroyed in a battle. You find the cargo and the body of a Thalmor Justicar. On him is a letter linking the Thalmor to a group of rival pirates and details their plans to topple Flame-Beard's fleet and install their own privateers as the clear power in the Sea of Ghosts to continue to strain Imperial trade between their remaining provinces.
-- When you report back Florian is highly disturbed by the news and makes it clear that this evidence cannot leave the island because it would cause an international scandal. However, he knows that they can't just let the Thalmor disrupt EEC shipping. Florian tells you that they will need to think about the situation. You leave.
 
-## Dead in the Water
+# EEC3A
 
-- You receive a letter telling you to report to Japhet's Folly. When you arrive the third section of the island is repaired. Florian tells you that they have a crazy plan. They explain that the Thalmor privateers are not only threatening the EEC in the region, but also Flame-Beard's fleet. He tells the Player that they are going to travel to Flame-Beard's fortified shanty town to negotiate a contract between the EEC and Flame-Beard. 
-- The Player and Florian travel to Flame-Beard's "[Republic of Pirates](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#republic-of-pirates)" and speak with the pirate. Negotiations go poorly, but are interupted by an assault by Thalmor privateers. After fending off the attackers Flame-Beard grudgingly admits that they need eachother, at least for now. A contract is signed and Flame-Beard and his entire fleet is pardoned by the EEC so long that the contract is upheld.
-- The Player and Florian return to Japhet's Folly and Florian talks about how it is going to get really interesting in the Sea of Ghosts (maybe he actually uses the term "Shadow War"). He tells the Player that the EEC was in a safe position for now but that they will need to begin fighting back against the Thalmor pirates.
+You talk to Florian about the next fort assault and he mentions something he achieved in your absence. He gives the exposition he received from Flamebeard about the next clan and you go out and deal with them like in Rise in The East, but with backup. You find another part of the code and return to Japhet’s Folly.
 
-# Shadow War Quests
 
-After the conclusion of the Main Quest several quests will begin to be offered by Florian and Captain Flame-Beard as part of the newly sparked "Shadow War" between the EEC and Aldmeri Dominion.
+# EEC3B
+
+You talk to Flamebeard about the next fort assault and he mentions something he and his men achieved in the meantime. He gives you the exposition about the clan you are about to face and you deal with them in a way befitting of a pirate. You find the last clue and return to Japhet’s Folly.
+
+
+Once both EEC3A and EEC3B are complete Flamebeard uses the parts of the code he found to narrow the next meeting down to Shipwreck Island. Florian will gather the men and together they will plan their attack.
+
+
+## EEC4
+
+The preparations are ready, the whole fleet can be seen at the entrance and Japhet’s Folly is completely repaired and filled with troops. Flamebeard proposes he goes in disguised as himself and causes pandemonium so the rest of the EEC troops can come in uncontested. He’ll fire a firebolt or something recognizable so Florian knows when to come in. Florian on the other hand proposes going in the classic way of bombarding them from a distance and sending in troops. He proposes using Flamebeard’s ship for the bombarding since it has a lot more space for catapults, while he will use his ships to get the troops to land. They ask you about which approach you think is better and you give an answer and a reason why, which convinces whoever’s plan you did not pick. Florian settles the matter and you go out to destroy the Republic of Pirates with the plan you three agreed on.
+
+# EEC4A
+
+As Flamebeard’s catapults are bombarding Shipwreck Island you are sailing on Florian’s ship. You can interact with a rowboat to get on shore in a mini EEC D-Day, where you have to break through the well guarded entrance of the Republic of Pirates in some way. Florian is your follower in this section. You storm the place and once you make it in you kill all the pirates. Florian and Flamebeard meet up and you return to Japhet’s Folly.
+
+# EEC4B
+
+Flamebeard hoists the Elder Scrolls’ Jolly Roger and you enter the republic of pirates. He talks to someone there who tells him about how terrible things have been going lately and you walk into the camp. Suddenly one of the pirates there shouts that he recognizes you as an EEC member from the Adelaisa ambush. Flamebeard fires the signal and everyone starts killing everyone, Flamebeard is your follower in this section. The EEC comes in with the same rowboats from EEC4A and you kill the pirates. Flamebeard and Florian meet up and you return to Japhet’s Folly.
+
+## EEC5
+
+You arrive at the inn at Japhet’s Folly with Flamebeard and Florian have a drink with them. The conversation gradually leads you to the crow’s nest of Flamebeard’s ship which looks out over the completed Japhet’s Folly. Florian gives you a promotion from fixer to agent and a nice medal, explaining it’s not company policy to give these out anymore, but he thought that you should have one. (The amulet could have a non-functional enchantment text like The back of the medal reads: Awarded to [Player Name] for exceptional initiative and bravery in serving the EEC). Fade to black and you wake up in your quarters at the EEC, your final quest now completed. 
 
 ## Assault on Fort <Alias=FortName> ([Japhet's Folly](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#japhets-folly)/[Republic of Pirates](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#republic-of-pirates))
-
-Both Florian and Captain Flame-Beard will offer a special series of quests where you travel with one of the two to retake several [sea forts](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/LOCATIONS.md#sea-forts) that had fallen to the Thalmor Privateers. The assaults will happen in two phases, the first phase involves disabling the enemy catapults in order to make landing at the fort safe. The second phase involves laying anchor at the fort and taking it by foot. You can start a sea fort assault by talking to either Flame-Beard or Florian, whoever you go with will determine what faction takes control of the fort, there will be slightly different rewards depending on who you choose.  There are only three Sea Forts in the Sea of Ghosts (not counting the one seized during [Give No Quarter](https://github.com/TateTaylorUSA/The-Northern-Sea/blob/main/Docs/QUESTS.md#give-no-quarter)) so this quest is not endlessly repeatable.
 
 ## Radiant Quests
 
